@@ -1,0 +1,105 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <title>Mosquitofish Sample Sites</title>
+
+    <style>
+      html,
+      body,
+      #viewDiv {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.22/esri/themes/light/main.css"
+    />
+    <script src="https://js.arcgis.com/4.22/"></script>
+
+    <script>
+      require([
+        "esri/Map",
+        "esri/layers/GeoJSONLayer",
+        "esri/views/MapView",
+        "esri/widgets/BasemapToggle",
+      ], (Map, GeoJSONLayer, MapView, BasemapToggle) => {
+        const url = "SMCDatafor5yearreportCleaned.geojson";
+
+        const template = {
+          title: "Sample Site Info",
+          fieldInfos: [
+            {
+              fieldName: "MultipleIndicators",
+            },
+          ],
+        };
+
+        const renderer = {
+          type: "unique-value", // autocasts as new UniqueValueRenderer()
+          field: "MultipleIndicators",
+          defaultSymbol: { type: "simple-marker" }, // autocasts as new SimpleFillSymbol()
+          uniqueValueInfos: [
+            {
+              // All features with value of "North" will be blue
+              value: "AllIntact",
+              symbol: {
+                type: "simple-marker", // autocasts as new SimpleFillSymbol()
+                color: "blue",
+              },
+            },
+            {
+              // All features with value of "East" will be green
+              value: "NotIntact",
+              symbol: {
+                type: "simple-marker", // autocasts as new SimpleFillSymbol()
+                color: "red",
+              },
+            },
+          ],
+        };
+
+        const geojsonLayer = new GeoJSONLayer({
+          url: url,
+          //   popupTemplate: template,
+          renderer: renderer,
+          defaultPopupTemplateEnabled: true,
+        });
+        geojsonLayer.when(function () {
+          popupTemplate = geojsonLayer.createPopupTemplate();
+          popupTemplate.title = "Sampling Site";
+          geojsonLayer.popupTemplate = popupTemplate;
+        });
+
+        const map = new Map({
+          basemap: "gray-vector",
+          layers: [geojsonLayer],
+        });
+
+        const view = new MapView({
+          container: "viewDiv",
+          center: [-119, 34],
+          zoom: 8,
+          map: map,
+        });
+        const toggle = new BasemapToggle({
+          // 2 - Set properties
+          view: view, // view that provides access to the map's 'topo-vector' basemap
+          nextBasemap: "hybrid", // allows for toggling to the 'hybrid' basemap
+        });
+        view.ui.add(toggle, "top-right");
+      });
+    </script>
+  </head>
+
+  <body>
+    <div id="viewDiv"></div>
+  </body>
+</html>
