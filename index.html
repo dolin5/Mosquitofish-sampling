@@ -30,7 +30,8 @@
         "esri/layers/GeoJSONLayer",
         "esri/views/MapView",
         "esri/widgets/BasemapToggle",
-      ], (Map, GeoJSONLayer, MapView, BasemapToggle) => {
+        "esri/widgets/Legend",
+      ], (Map, GeoJSONLayer, MapView, BasemapToggle, Legend) => {
         const url = "SMCDatafor5yearreportCleaned.geojson";
 
         const template = {
@@ -42,7 +43,7 @@
           ],
         };
 
-        const renderer = {
+        const multipleIndicatorsRenderer = {
           type: "unique-value", // autocasts as new UniqueValueRenderer()
           field: "MultipleIndicators",
           defaultSymbol: { type: "simple-marker" }, // autocasts as new SimpleFillSymbol()
@@ -50,17 +51,56 @@
             {
               // All features with value of "North" will be blue
               value: "AllIntact",
-              symbol: {
-                type: "simple-marker", // autocasts as new SimpleFillSymbol()
-                color: "blue",
-              },
+              symbol: { type: "simple-marker", color: "#711C85" },
             },
             {
               // All features with value of "East" will be green
               value: "NotIntact",
               symbol: {
                 type: "simple-marker", // autocasts as new SimpleFillSymbol()
-                color: "red",
+                color: "#D6E84F",
+              },
+            },
+          ],
+        };
+
+        const toxicityRenderer = {
+          type: "unique-value",
+          field: "Toxicity",
+          defaultSymbol: { type: "simple-marker" },
+          uniqueValueInfos: [
+            {
+              // All features with value of "North" will be blue
+              value: "NA",
+              symbol: { type: "simple-marker", color: [230, 230, 230, 1] },
+            },
+            {
+              // All features with value of "East" will be green
+              value: "Chronic",
+              symbol: {
+                type: "simple-marker", // autocasts as new SimpleFillSymbol()
+                color: "#E02D2D",
+              },
+            },
+            {
+              value: "NotToxic",
+              symbol: {
+                type: "simple-marker", // autocasts as new SimpleFillSymbol()
+                color: "#37BF67",
+              },
+            },
+            {
+              value: "Inconclusive",
+              symbol: {
+                type: "simple-marker", // autocasts as new SimpleFillSymbol()
+                symbol: { type: "simple-marker", color: [230, 230, 230, 1] },
+              },
+            },
+            {
+              value: "Acute",
+              symbol: {
+                type: "simple-marker", // autocasts as new SimpleFillSymbol()
+                color: "#FABE1C",
               },
             },
           ],
@@ -69,7 +109,7 @@
         const geojsonLayer = new GeoJSONLayer({
           url: url,
           //   popupTemplate: template,
-          renderer: renderer,
+          renderer: multipleIndicatorsRenderer,
           defaultPopupTemplateEnabled: true,
         });
         geojsonLayer.when(function () {
@@ -95,6 +135,32 @@
           nextBasemap: "hybrid", // allows for toggling to the 'hybrid' basemap
         });
         view.ui.add(toggle, "top-right");
+
+        var btn = document.createElement("button");
+        btn.innerText = "By Toxicity";
+        view.ui.add(btn, "top-right");
+        btn.addEventListener("click", () => {
+          if (btn.innerText == "By Toxicity") {
+            btn.innerText = "By Intactness";
+            geojsonLayer.renderer = toxicityRenderer;
+          } else {
+            btn.innerText = "By Toxicity";
+            geojsonLayer.renderer = multipleIndicatorsRenderer;
+          }
+        });
+
+        const legend = new Legend({
+          view: view,
+          layerInfos: [
+            {
+              layer: geojsonLayer,
+              title: "Sample Sites",
+            },
+          ],
+        });
+
+        // Add widget to the bottom right corner of the view
+        view.ui.add(legend, "bottom-right");
       });
     </script>
   </head>
