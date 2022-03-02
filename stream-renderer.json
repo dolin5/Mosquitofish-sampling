@@ -1,0 +1,173 @@
+{
+  "type": "uniqueValue",
+  "field1": "ftype",
+  "field2": "fcode",
+  "uniqueValueInfos": [
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [0, 112, 255, 255],
+        "width": 1
+      },
+      "value": "334,33400",
+      "label": "Connector,Connector; CanalDitch,Canal Ditch; CanalDitch,Canal Ditch: Canal Ditch Type = Aqueduct; CanalDitch,Canal Ditch: Canal Ditch Type = Stormwater"
+    },
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [0, 112, 255, 255],
+        "width": 1
+      },
+      "value": "336,33600",
+      "label": "Connector,Connector; CanalDitch,Canal Ditch; CanalDitch,Canal Ditch: Canal Ditch Type = Aqueduct; CanalDitch,Canal Ditch: Canal Ditch Type = Stormwater"
+    },
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [0, 112, 255, 255],
+        "width": 1
+      },
+      "value": "336,33601",
+      "label": "Connector,Connector; CanalDitch,Canal Ditch; CanalDitch,Canal Ditch: Canal Ditch Type = Aqueduct; CanalDitch,Canal Ditch: Canal Ditch Type = Stormwater"
+    },
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [0, 112, 255, 255],
+        "width": 1
+      },
+      "value": "336,33603",
+      "label": "Connector,Connector; CanalDitch,Canal Ditch; CanalDitch,Canal Ditch: Canal Ditch Type = Aqueduct; CanalDitch,Canal Ditch: Canal Ditch Type = Stormwater"
+    },
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [0, 112, 255, 255],
+        "width": 1.5
+      },
+      "value": "460,46000",
+      "label": "StreamRiver,Stream/River"
+    },
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSDash",
+        "color": [0, 112, 255, 255],
+        "width": 1.5
+      },
+      "value": "460,46003",
+      "label": "StreamRiver,Stream/River: Hydrographic Category = Intermittent"
+    },
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [0, 112, 255, 255],
+        "width": 1.5
+      },
+      "value": "460,46006",
+      "label": "StreamRiver,Stream/River: Hydrographic Category = Perennial"
+    },
+    {
+      "symbol": {
+        "type": "esriSLS",
+        "style": "esriSLSSolid",
+        "color": [46, 116, 166, 255],
+        "width": 1.5
+      },
+      "value": "468,46800",
+      "label": "Drainageway,Drainageway"
+    }
+  ],
+  "fieldDelimiter": ",",
+  "authoringInfo": {
+    "colorRamp": {
+      "type": "multipart",
+      "colorRamps": [
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [158, 65, 157, 255],
+          "toColor": [158, 65, 157, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [62, 145, 32, 255],
+          "toColor": [62, 145, 32, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [161, 46, 34, 255],
+          "toColor": [161, 46, 34, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [43, 135, 158, 255],
+          "toColor": [43, 135, 158, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [140, 116, 63, 255],
+          "toColor": [140, 116, 63, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [36, 53, 138, 255],
+          "toColor": [36, 53, 138, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [133, 62, 74, 255],
+          "toColor": [133, 62, 74, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [46, 176, 130, 255],
+          "toColor": [46, 176, 130, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [171, 160, 39, 255],
+          "toColor": [171, 160, 39, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [88, 53, 176, 255],
+          "toColor": [88, 53, 176, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [35, 94, 153, 255],
+          "toColor": [35, 94, 153, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [166, 38, 100, 255],
+          "toColor": [166, 38, 100, 255]
+        },
+        {
+          "type": "algorithmic",
+          "algorithm": "esriCIELabAlgorithm",
+          "fromColor": [122, 143, 59, 255],
+          "toColor": [122, 143, 59, 255]
+        }
+      ]
+    }
+  }
+}
