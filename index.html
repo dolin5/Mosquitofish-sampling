@@ -229,9 +229,23 @@
           }
         });
 
+        var btn2 = document.createElement("button");
+        btn2.innerText = "Hide Points";
+        view.ui.add(btn2, "top-right");
+        btn2.addEventListener("click", () => {
+          if (btn2.innerText == "Hide Points") {
+            btn2.innerText = "Show Points";
+            geojsonLayer.visible = false;
+          } else {
+            btn2.innerText = "Hide Points";
+            geojsonLayer.visible = true;
+          }
+        });
+
         const legend = new Legend({
           view: view,
           layerInfos: [
+            { layer: streamHighLightsLayer, title: "Waterway Pollution" },
             {
               layer: geojsonLayer,
               title: "Sample Sites",
