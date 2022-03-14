@@ -36,6 +36,7 @@
         "esri/widgets/BasemapToggle",
         "esri/widgets/Legend",
         "esri/widgets/Search",
+        "esri/layers/CSVLayer",
       ], (
         Map,
         GeoJSONLayer,
@@ -46,7 +47,8 @@
         Basemap,
         BasemapToggle,
         Legend,
-        Search
+        Search,
+        CSVLayer
       ) => {
         const url = "SMCDatafor5yearreportCleaned.geojson";
         const streamURL =
@@ -198,9 +200,35 @@
 
         const basemap = new Basemap({ baseLayers: [vectorTileLayer] });
 
+        const mosquitofishLocationRenderer = {
+          type: "simple", // autocasts as new SimpleRenderer()
+          symbol: {
+            type: "simple-marker", // autocasts as new SimpleMarkerSymbol()
+            size: 8,
+            color: [255, 157, 0],
+            outline: null,
+          },
+        };
+
+        const mosquitofishLocationsTemplate = {
+          title: "fish location",
+          content: "{taxon}",
+        };
+        const mosquitofishLocationsLayer = new CSVLayer({
+          url: "clipboard2048.csv",
+          popupTemplate: mosquitofishLocationsTemplate,
+          definitionExpression: "taxon = 'Gambusia affinis'",
+          renderer: mosquitofishLocationRenderer,
+        });
+
         const map = new Map({
           basemap: basemap,
-          layers: [streamHighLightsLayer, waterbodiesLayer, geojsonLayer],
+          layers: [
+            streamHighLightsLayer,
+            waterbodiesLayer,
+            geojsonLayer,
+            mosquitofishLocationsLayer,
+          ],
         });
 
         const view = new MapView({

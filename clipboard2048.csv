@@ -1,0 +1,874 @@
+stationid,stationname,masterid,latitude,longitude,huc,county,smcshed,taxon
+404M07368,,404M07368,34.1264,-118.75364,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07360,,404M07360,34.15459,-118.75848,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07365,,404M07365,34.04241,-118.51361,404,Los Angeles,Santa Monica Bay,Other fish
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Cyprinus carpio
+SGUR3984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Other reptile
+SGUR3984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Other fish
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Not Recorded
+904M21764,,904M21764,33.2075,-117.28072,904,San Diego,Central San Diego,Procambarus clarkii
+904M21764,,904M21764,33.2075,-117.28072,904,San Diego,Central San Diego,Gambusia affinis
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Other amphibian
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,Micropterus dolomieu
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,Other fish
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,Other reptile
+402M00043,Matilija Creek below hot springs,402M00043,34.50161,-119.34749,402,Ventura,Ventura,Other fish
+403M05774,Santa Clara R. 1.3km. u/s of conf. w. Castaic,403M05774,34.42692,-118.62067,403,Los Angeles,Santa Clara,NA
+SMC01278,,SMC01278,33.82099,-118.06645,405,Los Angeles,San Gabriel,NA
+405M10600,Craig Park,405M10600,33.85293,-118.10127,405,Los Angeles,San Gabriel,NA
+SMC00027,,403BA0027,34.66254,-119.05249,403,Ventura,Santa Clara,Other amphibian
+403M01522,Piru Creek below Center St,403M01522,34.41442,-118.78842,403,Ventura,Santa Clara,Gambusia affinis
+408M03027,ConejoCk_HillCyn_u/s of ArrStaRosaPk,408M03027,34.22489,-118.92975,408,Ventura,Calleguas,Other fish
+801WE1008,Barton Creek ~ 1.4 mi. NW of Barton Flats Campground,801WE1008,34.18128,-116.91197,801,San Bernardino,Upper Santa Ana,NA
+405PS0036,West Fork San Gabriel River,405PS0036,34.24118,-117.93426,405,Los Angeles,San Gabriel,Other fish
+408M03020,Calleguas Creek upstream of Potrero Rd,408M03020,34.16846,-119.05726,408,Ventura,Calleguas,NA
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Micropterus almoides
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Procambarus clarkii
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,NA
+412PS0040,Bull Creek 40,412PS0040,34.26065,-118.48935,412,Los Angeles,Los Angeles,Procambarus clarkii
+412M08610,Santa Anita Wash,412M08610,34.20112,-118.01825,412,Los Angeles,Los Angeles,Other amphibian
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Lithobates catesbeianus
+404M04599,W ForkArroyoSequit_CircleXgrotto,404M04599,34.09458,-118.92442,404,Ventura,Santa Monica Bay,Other amphibian
+404M04599,W ForkArroyoSequit_CircleXgrotto,404M04599,34.09458,-118.92442,404,Ventura,Santa Monica Bay,Other reptile
+902M18901,,902M18901,33.49624,-117.20413,902,Riverside,Northern San Diego,Other amphibian
+SMC00873,,SMC00873,33.59849,-117.62668,901,Orange,San Juan,Other amphibian
+901M14149,,901M14149,33.56754,-117.74812,901,Orange,San Juan,Other amphibian
+SMC00206,,SMC00206,33.54359,-117.65963,901,Orange,San Juan,Not Recorded
+901M14145,,901M14145,33.48818,-117.66682,901,Orange,San Juan,Not Recorded
+801M12675,,801M12675,33.81308,-117.85819,801,Orange,Lower Santa Ana,Gambusia affinis
+801M12678,,801M12678,33.79594,-117.70467,801,Orange,Lower Santa Ana,Not Recorded
+SMC00105,,SMC00105,33.74651,-117.58423,801,Orange,Lower Santa Ana,Not Recorded
+801M12684,,801M12684,33.75073,-118.04144,801,Orange,Lower Santa Ana,Not Recorded
+845PS0011,Fullerton Creek,845PS0011,33.88053,-117.89742,845,Orange,San Gabriel,Not Recorded
+SMC01726,,SMC01726,33.86351,-117.98816,845,Orange,San Gabriel,Not Recorded
+SMC00702,,SMC00702,33.87795,-118.00297,845,Orange,San Gabriel,Not Recorded
+SMC01808,,SMC01808,34.3094,-118.07316,412,Los Angeles,Los Angeles,Other amphibian
+SMC01808,,SMC01808,34.3094,-118.07316,412,Los Angeles,Los Angeles,Other amphibian
+412M08641,,412M08641,34.30548,-118.06798,412,Los Angeles,Los Angeles,Not Recorded
+412M08645,,412M08645,34.28922,-118.50195,412,Los Angeles,Los Angeles,Not Recorded
+SMC01004,,SMC01004,34.15016,-118.16579,412,Los Angeles,Los Angeles,Not Recorded
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,Procambarus clarkii
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,Other fish
+412M08647,,412M08647,34.27872,-118.30172,412,Los Angeles,Los Angeles,Other amphibian
+412M08647,,412M08647,34.27872,-118.30172,412,Los Angeles,Los Angeles,Gambusia affinis
+412M08646,,412M08646,34.1289,-118.08133,412,Los Angeles,Los Angeles,Not Recorded
+412WE0552,Arroyo Seco Creek ~2.1 miles upstream from Gould Mesa Campgroud.,412WE0552,34.23908,-118.18059,412,Los Angeles,Los Angeles,Other amphibian
+SMC04204,,412S04204,34.20358,-118.01853,412,Los Angeles,Los Angeles,Other amphibian
+SMC00318,,SMC00318,33.81287,-118.20558,412,Los Angeles,Los Angeles,Cyprinus carpio
+SMC00608,,SMC00608,34.12344,-117.90223,405,Los Angeles,San Gabriel,Not Recorded
+SMC20032,,SMC20032,33.87664,-118.10774,405,Los Angeles,San Gabriel,Not Recorded
+SMC12862,,SMC12862,33.92148,-118.11149,405,Los Angeles,San Gabriel,Not Recorded
+SMC03280,,SMC03280,34.25685,-117.85652,405,Los Angeles,San Gabriel,Other amphibian
+SMC03216,,SMC03216,34.28092,-117.84093,405,Los Angeles,San Gabriel,Not Recorded
+405CE0280,Cattle Canyon Creek ~1.4mi above San Gabriel River,405CE0280,34.23041,-117.74981,405,Los Angeles,San Gabriel,Not Recorded
+SMC01260,,SMC01260,34.06502,-117.97473,405,Los Angeles,San Gabriel,Not Recorded
+SMC00686,,SMC00686,34.0322,-117.83819,405,Los Angeles,San Gabriel,Not Recorded
+SMC01248,,SMC01248,34.25895,-117.74499,405,Los Angeles,San Gabriel,Other amphibian
+SMC03452,,SMC03452,34.30354,-117.8323,405,Los Angeles,San Gabriel,Other amphibian
+404M04599,W ForkArroyoSequit_CircleXgrotto,404M04599,34.09458,-118.92442,404,Ventura,Santa Monica Bay,Other amphibian
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Other amphibian
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Micropterus almoides
+902M18893,,902M18893,33.45304,-117.17403,902,Riverside,Northern San Diego,Other amphibian
+902M18893,,902M18893,33.45304,-117.17403,902,Riverside,Northern San Diego,Other amphibian
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+905M21756,,905M21756,33.05619,-117.04124,905,San Diego,Central San Diego,Other amphibian
+905M21756,,905M21756,33.05619,-117.04124,905,San Diego,Central San Diego,Procambarus clarkii
+906M21758,,906M21758,32.94264,-117.10754,906,San Diego,Central San Diego,Procambarus clarkii
+906M21758,,906M21758,32.94264,-117.10754,906,San Diego,Central San Diego,Micropterus almoides
+906M21758,,906M21758,32.94264,-117.10754,906,San Diego,Central San Diego,Other amphibian
+906M21758,,906M21758,32.94264,-117.10754,906,San Diego,Central San Diego,Other amphibian
+906M21738,,906M21738,32.92288,-117.18625,906,San Diego,Central San Diego,Lithobates catesbeianus
+906M21738,,906M21738,32.92288,-117.18625,906,San Diego,Central San Diego,Procambarus clarkii
+906M21738,,906M21738,32.92288,-117.18625,906,San Diego,Central San Diego,Micropterus almoides
+907M23362,,907M23362,32.9918,-116.71432,907,San Diego,Mission Bay and San Diego River,Other amphibian
+907M23362,,907M23362,32.9918,-116.71432,907,San Diego,Mission Bay and San Diego River,Other amphibian
+909WE0662,Sweetwater River at Glen Valley Campground,909WE0662,32.89957,-116.58789,909,San Diego,Southern San Diego,NA
+910M24924,,910M24924,32.5915,-117.07624,910,San Diego,Southern San Diego,Procambarus clarkii
+911M24934,,911M24934,32.76761,-116.65057,911,San Diego,Southern San Diego,NA
+911M24945,,911M24945,32.74334,-116.46741,911,San Diego,Southern San Diego,Other amphibian
+402M00030,,402M00030,34.43881,-119.29959,402,Ventura,Ventura,Other amphibian
+402M00042,,402M00042,34.46039,-119.28891,402,Ventura,Ventura,Other amphibian
+408M03100,,408M03100,34.1812,-119.0871,408,Ventura,Calleguas,Not Recorded
+404M04674,,404M04674,34.1462,-118.85088,404,Ventura,Santa Monica Bay,Other amphibian
+SMC00047,,403BA0047,34.27084,-119.1524,403,Ventura,Santa Clara,Not Recorded
+403M01580,,403M01580,34.23495,-119.23075,403,Ventura,Santa Clara,Cyprinus carpio
+403M01560,,403M01560,34.23545,-119.21253,403,Ventura,Santa Clara,Not Recorded
+402M00058,,402M00058,34.44552,-119.29586,402,Ventura,Ventura,Other amphibian
+402M00058,,402M00058,34.44552,-119.29586,402,Ventura,Ventura,Gambusia affinis
+402M00058,,402M00058,34.44552,-119.29586,402,Ventura,Ventura,Other fish
+402M00110,,402M00110,34.42735,-119.30364,402,Ventura,Ventura,Other amphibian
+402M00110,,402M00110,34.42735,-119.30364,402,Ventura,Ventura,Gambusia affinis
+402M00110,,402M00110,34.42735,-119.30364,402,Ventura,Ventura,Other fish
+402M00127,,402M00127,34.42503,-119.26342,402,Ventura,Ventura,Other amphibian
+402M00127,,402M00127,34.42503,-119.26342,402,Ventura,Ventura,Other fish
+SMC00660,,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Other amphibian
+SMC00660,,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Gambusia affinis
+408M03051,,408M03051,34.26839,-118.9476,408,Ventura,Calleguas,Not Recorded
+ME-SCR2,ME-SCR2,403M01661,34.30608,-119.09618,403,Ventura,Santa Clara,Not Recorded
+SMC00027,,403BA0027,34.66254,-119.05249,403,Ventura,Santa Clara,Other fish
+403M01571,,403M01571,34.58667,-119.27994,403,Ventura,Santa Clara,Other fish
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,Other fish
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Micropterus salmoides
+408M03111,,408M03111,34.18105,-119.03278,408,Ventura,Calleguas,Other amphibian
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Not Recorded
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Gambusia affinis
+909M24951,,909M24951,32.77066,-116.81351,909,San Diego,Southern San Diego,Other amphibian
+908M24952,,908M24952,32.72548,-117.07251,908,San Diego,Southern San Diego,Procambarus clarkii
+908M24952,,908M24952,32.72548,-117.07251,908,San Diego,Southern San Diego,Gambusia affinis
+909M24953,,909M24953,32.80613,-116.79967,909,San Diego,Southern San Diego,Other amphibian
+909WE0662,Sweetwater River at Glen Valley Campground,909WE0662,32.89957,-116.58789,909,San Diego,Southern San Diego,Not Recorded
+907M23405,,907M23405,32.86217,-117.00823,907,San Diego,Mission Bay and San Diego River,Other amphibian
+403M01538,,403M01538,34.41199,-118.83067,403,Ventura,Santa Clara,Other fish
+403M01538,,403M01538,34.41199,-118.83067,403,Ventura,Santa Clara,Other amphibian
+403M01539,,403M01539,34.54733,-119.16554,403,Ventura,Santa Clara,NA
+403M01553,,403M01553,34.43845,-118.92539,403,Ventura,Santa Clara,Other amphibian
+412M08615,Los Angeles River,412M08615,34.14392,-118.34294,412,Los Angeles,Los Angeles,NA
+403M01553,,403M01553,34.43845,-118.92539,403,Ventura,Santa Clara,Other fish
+403M01553,,403M01553,34.43845,-118.92539,403,Ventura,Santa Clara,Other amphibian
+403M05785,,403M05785,34.37091,-118.47199,403,Los Angeles,Santa Clara,Other amphibian
+403M05795,,403M05795,34.60898,-118.77961,403,Los Angeles,Santa Clara,Lithobates catesbeianus
+403M05795,,403M05795,34.60898,-118.77961,403,Los Angeles,Santa Clara,Procambarus clarkii
+404M04517,,404M04517,34.17649,-118.70612,404,Ventura,Santa Monica Bay,Other amphibian
+404M07361,,404M07361,34.10164,-118.62119,404,Los Angeles,Santa Monica Bay,Other amphibian
+SMC11581,,SMC11581,33.95246,-117.60611,801,Riverside,Middle Santa Ana,
+404M07361,,404M07361,34.10164,-118.62119,404,Los Angeles,Santa Monica Bay,Other amphibian
+404M07360,,404M07360,34.15459,-118.75848,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07362,,404M07362,33.8009,-118.38703,404,Los Angeles,Santa Monica Bay,NA
+405CE0280,Cattle Canyon Creek ~1.4mi above San Gabriel River,405CE0280,34.23041,-117.74981,405,Los Angeles,San Gabriel,Other amphibian
+405PS0011,,405PS0011,33.88054,-117.89743,845,Orange,San Gabriel,NA
+408BA0660,Santa Clara Watershed Unknown River Random Site 660,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Other fish
+408M03038,,408M03038,34.27491,-118.88512,408,Ventura,Calleguas,NA
+408M03047,,408M03047,34.17338,-119.0517,408,Ventura,Calleguas,Gambusia affinis
+408M03052,,408M03052,34.18063,-119.1039,408,Ventura,Calleguas,NA
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,NA
+412M08627,,412M08627,33.86326,-118.19655,412,Los Angeles,Los Angeles,NA
+412M08630,,412M08630,34.05961,-118.08902,412,Los Angeles,Los Angeles,NA
+412M08632,,412M08632,34.23834,-118.6077,412,Los Angeles,Los Angeles,NA
+412M08638,,412M08638,34.20922,-118.17119,412,Los Angeles,Los Angeles,Other amphibian
+412PS0052,Los Angeles River,412PS0052,34.1953,-118.58796,412,Los Angeles,Los Angeles,NA
+412WE0552,Arroyo Seco Creek ~2.1 miles upstream from Gould Mesa Campgroud.,412WE0552,34.23908,-118.18059,412,Los Angeles,Los Angeles,NA
+801M12652,,801M12652,33.71785,-117.997,801,Orange,Lower Santa Ana,Procambarus clarkii
+906M23361,,906M23361,32.84373,-117.21115,906,San Diego,Mission Bay and San Diego River,Lithobates catesbeianus
+906M23361,,906M23361,32.84373,-117.21115,906,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+906M23380,,906M23380,32.78855,-117.18675,906,San Diego,Mission Bay and San Diego River,Other amphibian
+906M23380,,906M23380,32.78855,-117.18675,906,San Diego,Mission Bay and San Diego River,Other amphibian
+906M23380,,906M23380,32.78855,-117.18675,906,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+906M23380,,906M23380,32.78855,-117.18675,906,San Diego,Mission Bay and San Diego River,Gambusia affinis
+906M21774,,906M21774,32.93392,-117.05882,906,San Diego,Central San Diego,Lithobates catesbeianus
+906M21774,,906M21774,32.93392,-117.05882,906,San Diego,Central San Diego,Procambarus clarkii
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+801MFC100,Metcalf Creek Random Olsen Site 100,801MFC100,34.22644,-116.93895,801,San Bernardino,Upper Santa Ana,NR
+801WE1008,Barton Creek ~ 1.4 mi. NW of Barton Flats Campground,801WE1008,34.18128,-116.91197,801,San Bernardino,Upper Santa Ana,NR
+801M15547,,801M15547,34.23493,-116.95849,801,San Bernardino,Upper Santa Ana,NR
+801M15530,,801M15530,34.07865,-117.06717,801,San Bernardino,Upper Santa Ana,NR
+801M15524,,801M15524,34.04813,-117.23001,801,San Bernardino,Upper Santa Ana,NR
+902M20237,,902M20237,33.40889,-117.21367,902,San Diego,Northern San Diego,Not Recorded
+902M20273,,902M20273,33.40282,-117.25509,902,San Diego,Northern San Diego,Other amphibian
+902M20273,,902M20273,33.40282,-117.25509,902,San Diego,Northern San Diego,Other fish
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Other amphibian
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Other amphibian
+903M20280,,903M20280,33.29662,-117.21939,903,San Diego,Northern San Diego,Procambarus clarkii
+903M20280,,903M20280,33.29662,-117.21939,903,San Diego,Northern San Diego,Gambusia affinis
+907M23385,,907M23385,32.81067,-117.07466,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+907M23385,,907M23385,32.81067,-117.07466,907,San Diego,Mission Bay and San Diego River,Ameiurus sp
+907M23385,,907M23385,32.81067,-117.07466,907,San Diego,Mission Bay and San Diego River,Micropterus salmoides
+907M23401,,907M23401,32.83431,-117.04648,907,San Diego,Mission Bay and San Diego River,Other amphibian
+907M23401,,907M23401,32.83431,-117.04648,907,San Diego,Mission Bay and San Diego River,Gambusia affinis
+907M23401,,907M23401,32.83431,-117.04648,907,San Diego,Mission Bay and San Diego River,Micropterus salmoides
+904M21782,,904M21782,33.15476,-117.03441,904,San Diego,Central San Diego,Not Recorded
+904M21761,,904M21761,33.1082,-117.20794,904,San Diego,Central San Diego,Other amphibian
+904M21761,,904M21761,33.1082,-117.20794,904,San Diego,Central San Diego,Procambarus clarkii
+904M21761,,904M21761,33.1082,-117.20794,904,San Diego,Central San Diego,Micropterus salmoides
+904M21761,,904M21761,33.1082,-117.20794,904,San Diego,Central San Diego,Lepomis cyanellus
+904M21784,,904M21784,33.18782,-117.27686,904,San Diego,Central San Diego,Not Recorded
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Procambarus clarkii
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Gambusia affinis
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Lepomis cyanellus
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Micropterus salmoides
+802M16985,,802M16985,33.67433,-117.26734,802,Riverside,San Jacinto,Other amphibian
+802M16985,,802M16985,33.67433,-117.26734,802,Riverside,San Jacinto,Procambarus clarkii
+801M16957,,801M16957,33.85539,-117.3551,801,Riverside,Middle Santa Ana,Not Recorded
+SMC09698,,802S09698,33.7459,-116.70739,802,Riverside,San Jacinto,Not Recorded
+SMC11581,,SMC11581,33.95246,-117.60611,801,Riverside,Middle Santa Ana,Not Recorded
+SMC01640,,SMC01640,34.15335,-118.69679,404,Los Angeles,Santa Monica Bay,Not Recorded
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Gambusia affinis
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Micropterus salmoides
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Cyprinus carpio
+404M07376,,404M07376,34.08222,-118.68792,404,Los Angeles,Santa Monica Bay,Other amphibian
+404M07375,,404M07375,34.0915,-118.6697,404,Los Angeles,Santa Monica Bay,Other amphibian
+SMC01640,,SMC01640,34.15335,-118.69679,404,Los Angeles,Santa Monica Bay,NA
+404M07375,,404M07375,34.0915,-118.6697,404,Los Angeles,Santa Monica Bay,Other amphibian
+404M07372,,404M07372,34.13604,-118.75743,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+403M05844,,403M05844,34.59423,-118.56356,403,Los Angeles,Santa Clara,Not Recorded
+403M05832,,403M05832,34.54997,-118.50855,403,Los Angeles,Santa Clara,Other amphibian
+906M23302,Tecolote Creek,906M23302,32.81736,-117.19986,906,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+801M12652,,801M12652,33.71785,-117.997,801,Orange,Lower Santa Ana,Other invertebrate
+801M12652,,801M12652,33.71785,-117.997,801,Orange,Lower Santa Ana,Gambusia affinis
+801M12665,,801M12665,33.64903,-117.69704,801,Orange,Lower Santa Ana,NA
+801M12669,,801M12669,33.69499,-117.85583,801,Orange,Lower Santa Ana,Procambarus clarkii
+901M14137,,901M14137,33.49418,-117.71659,901,Orange,San Juan,Other amphibian
+901M14138,,901M14138,33.57688,-117.63999,901,Orange,San Juan,Gambusia affinis
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Other amphibian
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Other amphibian
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Procambarus clarkii
+903M20177,,903M20177,33.39672,-117.11527,903,San Diego,Northern San Diego,Other amphibian
+903M20208,,903M20208,33.32691,-117.12282,903,San Diego,Northern San Diego,NA
+903M20213,,903M20213,33.30566,-117.13364,903,San Diego,Northern San Diego,Other amphibian
+907M23342,,907M23342,32.99095,-116.59072,907,San Diego,Mission Bay and San Diego River,NA
+907M23343,,907M23343,32.83203,-116.77732,907,San Diego,Mission Bay and San Diego River,Other amphibian
+907M23346,,907M23346,33.00467,-116.68435,907,San Diego,Mission Bay and San Diego River,Other amphibian
+907M23346,,907M23346,33.00467,-116.68435,907,San Diego,Mission Bay and San Diego River,Other amphibian
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Other fish
+ME-SCR,,ME-SCR,34.30063,-119.1097,403,Ventura,Santa Clara,Other fish
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Cyprinus carpio
+SMC00027,,403BA0027,34.66254,-119.05249,403,Ventura,Santa Clara,NA
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,NA
+SMC00206,,SMC00206,33.54359,-117.65963,901,Orange,San Juan,Other fish
+SMC00208,W Fork San Gabriel River,SMC00208,34.24464,-117.90908,405,Los Angeles,San Gabriel,Other fish
+SMC00236,San Bernardino Road,SMC00236,34.08951,-117.94783,405,Los Angeles,San Gabriel,NA
+SMC00254,Moody Creek,SMC00254,33.83758,-118.05377,845,Orange,San Gabriel,NA
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,NA
+SMC00288,,SMC00288,34.13118,-117.76,405,Los Angeles,San Gabriel,Other amphibian
+902M18901,,902M18901,33.49624,-117.20413,902,Riverside,Northern San Diego,Procambarus clarkii
+SMC00544,,SMC00544,34.14677,-117.74153,405,Los Angeles,San Gabriel,Not Recorded
+SGUR3984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Other reptile
+801M12641,Santa Ana Delhi Channel @ Sunflower,801M12641,33.69422,-117.88292,801,Orange,Lower Santa Ana,NA
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Gambusia affinis
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Other amphibian
+SMC01640,,SMC01640,34.15335,-118.69679,404,Los Angeles,Santa Monica Bay,
+404M07346,Malaga Canyon Creek,404M07346,33.8024,-118.39639,404,Los Angeles,Santa Monica Bay,
+404M07349,Malibu Creek,404M07349,34.07803,-118.70166,404,Los Angeles,Santa Monica Bay,Gambusia affinis
+404M07349,Malibu Creek,404M07349,34.07803,-118.70166,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+902M18864,,902M18864,33.49207,-117.24653,902,Riverside,Northern San Diego,Other amphibian
+902M18864,,902M18864,33.49207,-117.24653,902,Riverside,Northern San Diego,Procambarus clarkii
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Other amphibian
+405CE0280,Cattle Canyon Creek ~1.4mi above San Gabriel River,405CE0280,34.23041,-117.74981,405,Los Angeles,San Gabriel,Other amphibian
+SGUT502,,SGUT502,34.2283,-117.76593,405,Los Angeles,San Gabriel,Other amphibian
+405M10598,,405M10598,34.06991,-117.77146,405,Los Angeles,San Gabriel,
+412M08599,Los Angeles River,412M08599,34.10602,-118.24338,412,Los Angeles,Los Angeles,Micropterus dolomieu
+412M08602,Los Angeles River,412M08602,33.97131,-118.16996,412,Los Angeles,Los Angeles,
+412WE0896,Big Tujunga Canyon East of Vogel Canyon,412WE0896,34.28771,-118.23008,412,Los Angeles,Los Angeles,
+412CE0732,Los Angeles River ~1mi above Riverside Dr.,412CE0732,34.15513,-118.31261,412,Los Angeles,Los Angeles,
+412WE0552,Arroyo Seco Creek ~2.1 miles upstream from Gould Mesa Campgroud.,412WE0552,34.23908,-118.18059,412,Los Angeles,Los Angeles,
+SMC00520,,SMC00520,34.29626,-118.28252,412,Los Angeles,Los Angeles,Other fish
+412CE0616,Los Angeles River above Moorpark St.,412CE0616,34.15397,-118.42994,412,Los Angeles,Los Angeles,
+404R4S015,404R4S015,SMC03944,34.14255,-118.75224,404,Ventura,Santa Monica Bay,
+412M08597,Los Angeles River,412M08597,34.15524,-118.43907,412,Los Angeles,Los Angeles,Trachemys spp
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,Gambusia affinis
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,
+402M00002,Ventura River S of Shell Road,402M00002,34.31063,-119.29916,402,Ventura,Ventura,Procambarus clarkii
+402M00002,Ventura River S of Shell Road,402M00002,34.31063,-119.29916,402,Ventura,Ventura,Gambusia affinis
+408M03019,Arroyo Las Posas - nr MPK WWTP,408M03019,34.26742,-118.94037,408,Ventura,Calleguas,Gambusia affinis
+SMC00660,,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Gambusia affinis
+404M04532,Lindero Ck d/s Rockfield St,404M04532,34.1744,-118.78748,404,Ventura,Santa Monica Bay,Procambarus clarkii
+SMC00027,,403BA0027,34.66254,-119.05249,403,Ventura,Santa Clara,
+906M23302,Tecolote Creek,906M23302,32.81736,-117.19986,906,San Diego,Mission Bay and San Diego River,Xenopus laevis
+402M00009,Coyote Ck u/s stream gauge,402M00009,34.41824,-119.37505,402,Ventura,Ventura,Pacifastacus lenisculus
+403M01505,Sespe Creek nr Jepson Wash,403M01505,34.41709,-118.92546,403,Ventura,Santa Clara,Lithobates catesbeianus
+403M01505,Sespe Creek nr Jepson Wash,403M01505,34.41709,-118.92546,403,Ventura,Santa Clara,Other fish
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Gambusia affinis
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Cyprinus carpio
+407M01516,Arundell Barranca u/s Harbor Blvd,407M01516,34.25539,-119.25498,407,Ventura,Santa Clara,
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Other amphibian
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Procambarus clarkii
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Gambusia affinis
+SMC00324,,ME-SCR,34.30063,-119.1097,403,Ventura,Santa Clara,Procambarus clarkii
+SMC00324,,ME-SCR,34.30063,-119.1097,403,Ventura,Santa Clara,Gambusia affinis
+403M01506,Santa Clara River u/s Torrey Rd,403M01506,34.39739,-118.79347,403,Ventura,Santa Clara,Other amphibian
+403M01506,Santa Clara River u/s Torrey Rd,403M01506,34.39739,-118.79347,403,Ventura,Santa Clara,Gambusia affinis
+408M03015,Waverly Channel east of Young,408M03015,34.20947,-118.88115,408,Ventura,Calleguas,
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,
+408M03005,Tapo Cyn d/s Los Angeles Ave,408M03005,34.27001,-118.74203,408,Ventura,Calleguas,
+402M00005,Matilija Ck u/s Blue Heron Ranch,402M00005,34.51364,-119.40097,402,Ventura,Ventura,Other amphibian
+402M00005,Matilija Ck u/s Blue Heron Ranch,402M00005,34.51364,-119.40097,402,Ventura,Ventura,Other fish
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Lithobates catesbeianus
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Gambusia affinis
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Procambarus clarkii
+801M12625,Santa Ana River at I-405,801M12625,33.69499,-117.93471,801,Orange,Lower Santa Ana,Other fish
+SMC09698,,802S09698,33.7459,-116.70739,802,Riverside,San Jacinto,NA
+801M12611,Collins Channel downstream of Main St.,801M12611,33.80456,-117.86822,801,Orange,Lower Santa Ana,Gambusia affinis
+SMC00670,,SMC00670,33.86925,-117.90916,845,Orange,San Gabriel,
+801M12617,At 405 near Sand Cyn,801M12617,33.65489,-117.77451,801,Orange,Lower Santa Ana,
+901M14124,Segunda Desheca @ Calle de Los Molinos,901M14124,33.43535,-117.62556,901,Orange,San Juan,
+SMC16169,,SMC16169,33.74655,-117.59351,801,Orange,Lower Santa Ana,Other amphibian
+SMC16169,,SMC16169,33.74655,-117.59351,801,Orange,Lower Santa Ana,Other amphibian
+SMC16169,,SMC16169,33.74655,-117.59351,801,Orange,Lower Santa Ana,Other amphibian
+SMC00206,,SMC00206,33.54359,-117.65963,901,Orange,San Juan,
+901M14118,Trabuco Creek next to Beebe Park,901M14118,33.6098,-117.62739,901,Orange,San Juan,Other fish
+901M14118,Trabuco Creek next to Beebe Park,901M14118,33.6098,-117.62739,901,Orange,San Juan,Other amphibian
+SMC00873,,SMC00873,33.59849,-117.62668,901,Orange,San Juan,Gambusia affinis
+SMC00873,,SMC00873,33.59849,-117.62668,901,Orange,San Juan,Other amphibian
+801M15376,Day Creek,801M15376,34.082,-117.54148,801,San Bernardino,Middle Santa Ana,
+481M15356,San Antonio Creek,481M15356,34.23115,-117.66159,481,Los Angeles,Middle Santa Ana,
+801M15377,Lytle Creek,801M15377,34.21799,-117.46218,801,San Bernardino,Middle Santa Ana,Other amphibian
+801M15377,Lytle Creek,801M15377,34.21799,-117.46218,801,San Bernardino,Middle Santa Ana,Other amphibian
+801M15377,Lytle Creek,801M15377,34.21799,-117.46218,801,San Bernardino,Middle Santa Ana,Other fish
+801M15366,East Twin Creek,801M15366,34.1728,-117.26687,801,San Bernardino,Upper Santa Ana,Other amphibian
+SMCR8_062,,801LYC062,34.21257,-117.45844,801,San Bernardino,Middle Santa Ana,Other fish
+SMCR8_069,,801MLC069,34.2481,-117.51276,801,San Bernardino,Middle Santa Ana,Other amphibian
+SMCR8_069,,801MLC069,34.2481,-117.51276,801,San Bernardino,Middle Santa Ana,Other amphibian
+SMCR8_034,,801MIC034,34.08909,-116.92669,801,San Bernardino,Upper Santa Ana,
+SMCR8_100,,801MFC100,34.22644,-116.93895,801,San Bernardino,Upper Santa Ana,
+405M10599,,405M10599,33.95045,-118.04896,405,Los Angeles,San Gabriel,
+845PS0011,Fullerton Creek,845PS0011,33.88053,-117.89742,845,Orange,San Gabriel,
+403R4S117,San Francisquito u/s of Power Plant,403R4S117,34.58739,-118.45116,403,Los Angeles,Santa Clara,
+403R4S211,San Francisquito d/s of Power Plant,403R4S211,34.57232,-118.46287,403,Los Angeles,Santa Clara,Other invertebrate
+403R4S137,Plum Canyon Rd,403R4S137,34.44605,-118.4892,403,Los Angeles,Santa Clara,
+403BA0136,Boquet Canyon Random Site 136,403BA0136,34.51202,-118.45038,403,Los Angeles,Santa Clara,
+403WE0682,Bouquet Canyon Creek ~0.5mi Below Bouquet Reservoir,403WE0682,34.57066,-118.38974,403,Los Angeles,Santa Clara,
+403WE1021,Elizabeth Canyon Creek Lake Hughes Rd. ~10mi E I5,403WE1021,34.63193,-118.52977,403,Los Angeles,Santa Clara,Lithobates catesbeianus
+403CE0156,Santa Paula Creek ~2.5mi above Santa Clara River,403CE0156,34.37746,-119.05968,403,Ventura,Santa Clara,Procambarus clarkii
+404R4S009,Medea Creek u/s of Thousand Oaks,404R4S009,34.17601,-118.76169,404,Ventura,Santa Monica Bay,Procambarus clarkii
+404R4S070,Los Allos Canyon Creek,404R4S070,34.042,-118.89747,404,Los Angeles,Santa Monica Bay,
+404R4S089,Centinela Creek,404R4S089,33.98426,-118.41426,404,Los Angeles,Santa Monica Bay,
+403WE0534,Piru Creek 1.3 miles upstream from Fish Creek,403WE0534,34.61359,-118.77983,403,Los Angeles,Santa Clara,Lithobates catesbeianus
+403WE0534,Piru Creek 1.3 miles upstream from Fish Creek,403WE0534,34.61359,-118.77983,403,Los Angeles,Santa Clara,Pacifastacus lenisculus
+403WE0534,Piru Creek 1.3 miles upstream from Fish Creek,403WE0534,34.61359,-118.77983,403,Los Angeles,Santa Clara,Gambusia affinis
+403WE0534,Piru Creek 1.3 miles upstream from Fish Creek,403WE0534,34.61359,-118.77983,403,Los Angeles,Santa Clara,Other fish
+906M23302,Tecolote Creek,906M23302,32.81736,-117.19986,906,San Diego,Mission Bay and San Diego River,Xenopus laevis
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Other amphibian
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Other amphibian
+403WE0534,Piru Creek 1.3 miles upstream from Fish Creek,403WE0534,34.61359,-118.77983,403,Los Angeles,Santa Clara,Lithobates catesbeianus
+405M10596,Cerritos Channel d/s of LB Airport,405M10596,33.81024,-118.12821,405,Los Angeles,San Gabriel,Other invertebrate
+403CE0188,Santa Paula Creek ~0.6mi above Santa Clara River,403CE0188,34.35646,-119.04752,403,Ventura,Santa Clara,Other fish
+403CE0188,Santa Paula Creek ~0.6mi above Santa Clara River,403CE0188,34.35646,-119.04752,403,Ventura,Santa Clara,Gambusia affinis
+403R4S193,Piru Creek 403R4S193,403R4S193,34.41722,-118.78927,403,Ventura,Santa Clara,Procambarus clarkii
+403R4S193,Piru Creek 403R4S193,403R4S193,34.41722,-118.78927,403,Ventura,Santa Clara,Gambusia affinis
+403R4S193,Piru Creek 403R4S193,403R4S193,34.41722,-118.78927,403,Ventura,Santa Clara,Lithobates catesbeianus
+907S01610,Boulder Creek ~0.7mi above Boulder Cr. Rd.,907S01610,32.96675,-116.65275,907,San Diego,Mission Bay and San Diego River,Taricha torosa
+907S01610,Boulder Creek ~0.7mi above Boulder Cr. Rd.,907S01610,32.96675,-116.65275,907,San Diego,Mission Bay and San Diego River,Pseudacris cadaverina
+907SDB016,Cedar Creek Upstream of Eagle Spur,907SDB016,33.00595218,-116.7010731,907,San Diego,Mission Bay and San Diego River,Emys marmorata
+907SDB016,Cedar Creek Upstream of Eagle Spur,907SDB016,33.00595218,-116.7010731,907,San Diego,Mission Bay and San Diego River,Thamnophis hammondii
+907SDB016,Cedar Creek Upstream of Eagle Spur,907SDB016,33.00595218,-116.7010731,907,San Diego,Mission Bay and San Diego River,Pseudacris cadaverina
+907SDB047,Cedar Creek Upstream of Power Line,907SDB047,33.00755,-116.66464,907,San Diego,Mission Bay and San Diego River,Pseudacris cadaverina
+909S00282,Sweetwater River downstream of Merigen,909S00282,32.87185,-116.61372,909,San Diego,Southern San Diego,NA
+911S01142,Pine Valley Creek ~0.9mi below Espinosa Cr.,911S01142,32.73547,-116.65268,911,San Diego,Southern San Diego,NA
+911M24926,,911M24926,32.59782,-116.65687,911,San Diego,Southern San Diego,NA
+REF-BC,,REF-BC,33.63611,-117.55581,901,Orange,San Juan,Other amphibian
+REF-BC,,REF-BC,33.63611,-117.55581,901,Orange,San Juan,Other amphibian
+LC-133,,LC-133,33.57853,-117.76178,901,Orange,San Juan,Procambarus clarkii
+LC-133,,LC-133,33.57853,-117.76178,901,Orange,San Juan,Gambusia affinis
+LC-133,,LC-133,33.57853,-117.76178,901,Orange,San Juan,Other amphibian
+901M14134,Tijeras Creek @ Trabuco Creek confluence,901M14134,33.59231,-117.63283,901,Orange,San Juan,Other fish
+901M14134,Tijeras Creek @ Trabuco Creek confluence,901M14134,33.59231,-117.63283,901,Orange,San Juan,Other amphibian
+901M14134,Tijeras Creek @ Trabuco Creek confluence,901M14134,33.59231,-117.63283,901,Orange,San Juan,Other amphibian
+SMC00873,,SMC00873,33.59849,-117.62668,901,Orange,San Juan,Other amphibian
+801M12644,Esparanza Channel @ Yorba Linda Blvd.,801M12644,33.89118,-117.76561,801,Orange,Lower Santa Ana,Other amphibian
+SMC00428,SGUR00428,SMC00428,34.2481,-118.04976,405,Los Angeles,San Gabriel,NA
+902M18901,,902M18901,33.49624,-117.20413,902,Riverside,Northern San Diego,Other amphibian
+909WE0662,Sweetwater River at Glen Valley Campground,909WE0662,32.89957,-116.58789,909,San Diego,Southern San Diego,Other fish
+906M23318,Rose Canyon,906M23318,32.8249,-117.23035,906,San Diego,Mission Bay and San Diego River,Lepomis cyanellus
+906M23318,Rose Canyon,906M23318,32.8249,-117.23035,906,San Diego,Mission Bay and San Diego River,Gambusia affinis
+906M23318,Rose Canyon,906M23318,32.8249,-117.23035,906,San Diego,Mission Bay and San Diego River,Trachemys spp
+907M23325,Forester Tributary,907M23325,32.80233,-116.97166,907,San Diego,Mission Bay and San Diego River,
+909WE0662,Sweetwater River at Glen Valley Campground,909WE0662,32.89957,-116.58789,909,San Diego,Southern San Diego,Other amphibian
+403M05771,Gorman Creek,403M05771,34.69939,-118.79476,403,Los Angeles,Santa Clara,
+403M05757,Bouquet Canyon,403M05757,34.54518,-118.43467,403,Los Angeles,Santa Clara,
+403M05758,Santa Clara River,403M05758,34.43484,-118.61254,403,Los Angeles,Santa Clara,Procambarus clarkii
+403M05758,Santa Clara River,403M05758,34.43484,-118.61254,403,Los Angeles,Santa Clara,Gambusia affinis
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Micropterus almoides
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+909M24955,,909M24955,32.66652,-116.99547,909,San Diego,Southern San Diego,Gambusia affinis
+909M24955,,909M24955,32.66652,-116.99547,909,San Diego,Southern San Diego,Procambarus clarkii
+911M24949,,911M24949,32.80946,-116.43979,911,San Diego,Southern San Diego,Not Recorded
+911M24957,,911M24957,32.67449,-116.5657,911,San Diego,Southern San Diego,Other amphibian
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+906M21770,,906M21770,32.90376,-117.22665,906,San Diego,Central San Diego,Procambarus clarkii
+906M21754,,906M21754,32.95499,-117.17263,906,San Diego,Central San Diego,Procambarus clarkii
+906M21754,,906M21754,32.95499,-117.17263,906,San Diego,Central San Diego,Gambusia affinis
+906M21754,,906M21754,32.95499,-117.17263,906,San Diego,Central San Diego,Other amphibian
+907M23373,,907M23373,32.83791,-117.01763,907,San Diego,Mission Bay and San Diego River,Gambusia affinis
+907M23373,,907M23373,32.83791,-117.01763,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+907M23373,,907M23373,32.83791,-117.01763,907,San Diego,Mission Bay and San Diego River,Micropterus salmoides
+801M15511,,801M15511,34.17707,-116.84426,801,San Bernardino,Upper Santa Ana,Other fish
+801WE1008,Barton Creek ~ 1.4 mi. NW of Barton Flats Campground,801WE1008,34.18128,-116.91197,801,San Bernardino,Upper Santa Ana,Not Recorded
+801M15447,,801M15447,34.1669,-116.88835,801,San Bernardino,Upper Santa Ana,Not Recorded
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Other amphibian
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Procambarus clarkii
+405PS0030,San Gabriel River 30,405PS0030,34.23487,-117.80523,405,Los Angeles,San Gabriel,
+SGUT503,,SGUT503,34.29216,-117.83856,405,Los Angeles,San Gabriel,
+801M15479,,801M15479,34.09881,-117.02622,801,San Bernardino,Upper Santa Ana,Other amphibian
+801M15479,,801M15479,34.09881,-117.02622,801,San Bernardino,Upper Santa Ana,Other amphibian
+412M08643,,412M08643,33.8084,-118.20559,412,Los Angeles,Los Angeles,Not Recorded
+SMC00440,,SMC00440,34.28658,-118.52966,412,Los Angeles,Los Angeles,Other amphibian
+SMC00440,,SMC00440,34.28658,-118.52966,412,Los Angeles,Los Angeles,Other amphibian
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,Not Recorded
+412M08640,,412M08640,34.22095,-118.54618,412,Los Angeles,Los Angeles,Not Recorded
+SMC02092,,SMC02092,34.27948,-118.20684,412,Los Angeles,Los Angeles,Not Recorded
+SMC02088,,SMC02088,34.30226,-118.25959,412,Los Angeles,Los Angeles,Micropterus salmoides
+412M08642,,412M08642,34.0472,-118.22979,412,Los Angeles,Los Angeles,Not Recorded
+412WE0552,Arroyo Seco Creek ~2.1 miles upstream from Gould Mesa Campgroud.,412WE0552,34.23908,-118.18059,412,Los Angeles,Los Angeles,Not Recorded
+SMC02568,,SMC02568,34.27866,-118.22031,412,Los Angeles,Los Angeles,Other fish
+412M08599,Los Angeles River,412M08599,34.10602,-118.24338,412,Los Angeles,Los Angeles,Pacifastacus lenisculus
+412M08599,Los Angeles River,412M08599,34.10602,-118.24338,412,Los Angeles,Los Angeles,Cyprinus carpio
+412M08599,Los Angeles River,412M08599,34.10602,-118.24338,412,Los Angeles,Los Angeles,Other fish
+SMC00926,,SMC00926,33.90739,-117.88296,845,Orange,San Gabriel,Lithobates catesbeianus
+SMC00926,,SMC00926,33.90739,-117.88296,845,Orange,San Gabriel,Gambusia affinis
+801M12673,,801M12673,33.6049,-117.85296,801,Orange,Lower Santa Ana,Procambarus clarkii
+801M12672,,801M12672,33.79793,-117.9482,801,Orange,Lower Santa Ana,Not Recorded
+801M12674,,801M12674,33.73031,-117.79695,801,Orange,Lower Santa Ana,Not Recorded
+SMC00105,,SMC00105,33.74651,-117.58423,801,Orange,Lower Santa Ana,Not Recorded
+SMC00670,,SMC00670,33.86925,-117.90916,845,Orange,San Gabriel,Not Recorded
+SMC02656,,SMC02656,34.07498,-117.87216,405,Los Angeles,San Gabriel,Not Recorded
+SMC00382,,SMC00382,34.04437,-117.99413,405,Los Angeles,San Gabriel,Not Recorded
+SMC00608,,SMC00608,34.12344,-117.90223,405,Los Angeles,San Gabriel,Not Recorded
+SMC00480,,SMC00480,34.23434,-117.73155,405,Los Angeles,San Gabriel,Not Recorded
+SMC08766,,SMC08766,33.90192,-118.10859,405,Los Angeles,San Gabriel,Not Recorded
+SMC09534,,SMC09534,33.83832,-118.09487,405,Los Angeles,San Gabriel,Not Recorded
+SMC16832,,SMC16832,33.88444,-118.10855,405,Los Angeles,San Gabriel,Not Recorded
+SMC02976,,SMC02976,34.2579,-117.75661,405,Los Angeles,San Gabriel,Other amphibian
+SMC04524,W. Fork San Gabriel River; Off Shortcut- Pass Road,SMC04524,34.24761,-118.03367,405,Los Angeles,San Gabriel,Other fish
+408M03116,,408M03116,34.17233,-119.09741,408,Ventura,Calleguas,Not Recorded
+SMC00324,,ME-SCR,34.30063,-119.1097,403,Ventura,Santa Clara,Other amphibian
+SMC00324,,ME-SCR,34.30063,-119.1097,403,Ventura,Santa Clara,Gambusia affinis
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Not Recorded
+402M00066,,402M00066,34.29325,-119.30742,402,Ventura,Ventura,Procambarus clarkii
+402M00066,,402M00066,34.29325,-119.30742,402,Ventura,Ventura,Other amphibian
+402M00066,,402M00066,34.29325,-119.30742,402,Ventura,Ventura,Other fish
+402M00082,,402M00082,34.29004,-119.30801,402,Ventura,Ventura,Other fish
+410M01628,,410M01628,34.1625,-119.16675,410,Ventura,Santa Clara,Not Recorded
+408M03119,,408M03119,34.2277,-118.97224,408,Ventura,Calleguas,Cyprinus carpio
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Other fish
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Cyprinus carpio
+SMC00027,,403BA0027,34.66254,-119.05249,403,Ventura,Santa Clara,Other fish
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,Other fish
+408M03115,,408M03115,34.26752,-118.94539,408,Ventura,Calleguas,Other fish
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Gambusia affinis
+402M00114,,402M00114,34.41665,-119.37011,402,Ventura,Ventura,Other amphibian
+403M01626,,403M01626,34.43605,-119.0864,403,Ventura,Santa Clara,Not Recorded
+403M01565,,403M01565,34.38023,-119.06545,403,Ventura,Santa Clara,Other amphibian
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,Gambusia affinis
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,Procambarus clarkii
+408BA0660,Santa Clara Watershed Unknown River Random Site 660,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Other amphibian
+408BA0660,Santa Clara Watershed Unknown River Random Site 660,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Carassius auratus
+404M04624,,404M04624,34.18241,-118.78924,404,Ventura,Santa Monica Bay,Not Recorded
+SMC00520,,SMC00520,34.29626,-118.28252,412,Los Angeles,Los Angeles,Other fish
+SMC00924,,SMC00924,34.22394,-118.18053,412,Los Angeles,Los Angeles,Other amphibian
+SMC01544,,SMC01544,34.29729,-118.24843,412,Los Angeles,Los Angeles,Procambarus clarkii
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,Not Recorded
+SMC00318,,SMC00318,33.81287,-118.20558,412,Los Angeles,Los Angeles,Not Recorded
+412WE0552,Arroyo Seco Creek ~2.1 miles upstream from Gould Mesa Campgroud.,412WE0552,34.23908,-118.18059,412,Los Angeles,Los Angeles,Not Recorded
+412M08661,,412M08661,34.16288,-118.46936,412,Los Angeles,Los Angeles,Not Recorded
+412M08662,,412M08662,34.06891,-118.05717,412,Los Angeles,Los Angeles,Not Recorded
+412M08663,,412M08663,34.11082,-118.26183,412,Los Angeles,Los Angeles,Cyprinus carpio
+412M08672,,412M08672,34.18653,-118.52911,412,Los Angeles,Los Angeles,Not Recorded
+910M24979,,910M24979,32.59945,-116.93745,910,San Diego,Southern San Diego,Other amphibian
+910M24979,,910M24979,32.59945,-116.93745,910,San Diego,Southern San Diego,Gambusia affinis
+909WE1014,Viejas Creek ~0.2mi SW Hwy 8,909WE1014,32.83213,-116.7265,909,San Diego,Southern San Diego,Other amphibian
+909WE1014,Viejas Creek ~0.2mi SW Hwy 8,909WE1014,32.83213,-116.7265,909,San Diego,Southern San Diego,Other amphibian
+909WE1014,Viejas Creek ~0.2mi SW Hwy 8,909WE1014,32.83213,-116.7265,909,San Diego,Southern San Diego,Procambarus clarkii
+909WE1014,Viejas Creek ~0.2mi SW Hwy 8,909WE1014,32.83213,-116.7265,909,San Diego,Southern San Diego,Gambusia affinis
+909WE0780,Cold Stream Above Cuyamaca State Park Indian Exhibit,909WE0780,32.92981,-116.55901,909,San Diego,Southern San Diego,Not Recorded
+SMC00198,,SMC00198,32.93709,-117.13851,906,San Diego,Central San Diego,Procambarus clarkii
+SMC00198,,SMC00198,32.93709,-117.13851,906,San Diego,Central San Diego,Other fish
+SMCR8_057,,801MLC057,34.25033,-117.54376,801,San Bernardino,Middle Santa Ana,
+405CE0280,Cattle Canyon Creek ~1.4mi above San Gabriel River,405CE0280,34.23041,-117.74981,405,Los Angeles,San Gabriel,Other fish
+802M16999,,802M16999,33.74334,-116.79215,802,Riverside,San Jacinto,Other amphibian
+802M16999,,802M16999,33.74334,-116.79215,802,Riverside,San Jacinto,Other amphibian
+802M17015,,802M17015,33.73057,-116.80939,802,Riverside,San Jacinto,Other amphibian
+SMC09698,,802S09698,33.7459,-116.70739,802,Riverside,San Jacinto,Other fish
+SMC11581,,SMC11581,33.95246,-117.60611,801,Riverside,Middle Santa Ana,Not Recorded
+902M20301,,902M20301,33.42381,-117.20464,902,San Diego,Northern San Diego,Procambarus clarkii
+902M20301,,902M20301,33.42381,-117.20464,902,San Diego,Northern San Diego,Gambusia affinis
+902M20301,,902M20301,33.42381,-117.20464,902,San Diego,Northern San Diego,Cyprinus carpio
+902M20301,,902M20301,33.42381,-117.20464,902,San Diego,Northern San Diego,Lepomis cyanellus
+903M20296,,903M20296,33.30925,-117.19799,903,San Diego,Northern San Diego,Other amphibian
+903M20296,,903M20296,33.30925,-117.19799,903,San Diego,Northern San Diego,Gambusia affinis
+903M20312,,903M20312,33.26017,-117.21494,903,San Diego,Northern San Diego,Other amphibian
+903M20312,,903M20312,33.26017,-117.21494,903,San Diego,Northern San Diego,Procambarus clarkii
+903M20312,,903M20312,33.26017,-117.21494,903,San Diego,Northern San Diego,Gambusia affinis
+907M23402,,907M23402,32.90288,-116.63939,907,San Diego,Mission Bay and San Diego River,Other amphibian
+907M23412,,907M23412,32.79492,-117.11327,907,San Diego,Mission Bay and San Diego River,NR
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Other amphibian
+907M23408,,907M23408,32.76768,-117.16044,907,San Diego,Mission Bay and San Diego River,Ameiurus sp
+907M23408,,907M23408,32.76768,-117.16044,907,San Diego,Mission Bay and San Diego River,Lepomis cyanellus
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Procambarus clarkii
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Micropterus salmoides
+SMC01640,,SMC01640,34.15335,-118.69679,404,Los Angeles,Santa Monica Bay,NR
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Micropterus salmoides
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Cyprinus carpio
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Carassius auratus
+411M07386,,411M07386,33.92039,-118.32591,411,Los Angeles,Dominguez Gap,NR
+404M07380,,404M07380,34.12069,-118.70899,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07384,,404M07384,34.14304,-118.80902,404,Los Angeles,Santa Monica Bay,NR
+403M05877,,403M05877,34.35769,-118.55885,403,Los Angeles,Santa Clara,Other amphibian
+403M05884,,403M05884,34.43647,-118.14693,403,Los Angeles,Santa Clara,Other amphibian
+SMC00473,,SMC00473,33.03916,-117.15802,905,San Diego,Central San Diego,Lithobates catesbeianus
+SMC00473,,SMC00473,33.03916,-117.15802,905,San Diego,Central San Diego,Procambarus clarkii
+902M18865,SMC18865,902M18865,33.46728,-117.23022,902,Riverside,Northern San Diego,Not Recorded
+902M18929,,902M18929,33.46879,-117.22049,902,Riverside,Northern San Diego,Procambarus clarkii
+902M18929,,902M18929,33.46879,-117.22049,902,Riverside,Northern San Diego,Other amphibian
+902M18929,,902M18929,33.46879,-117.22049,902,Riverside,Northern San Diego,Other amphibian
+SMC04054,,SMC04054,32.83697,-117.01874,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+SMC04054,,SMC04054,32.83697,-117.01874,907,San Diego,Mission Bay and San Diego River,Gambusia affinis
+SMC04054,,SMC04054,32.83697,-117.01874,907,San Diego,Mission Bay and San Diego River,Micropterus salmoides
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+404M07354,Ballona Creek 410 m upstream of Duquesne Ave,404M07354,34.02025,-118.38647,404,Los Angeles,Santa Monica Bay,NA
+905M21791,,905M21791,33.12278,-116.78727,905,San Diego,Central San Diego,Other amphibian
+905M21791,,905M21791,33.12278,-116.78727,905,San Diego,Central San Diego,Other amphibian
+905M21789,,905M21789,33.01073,-117.16855,905,San Diego,Central San Diego,Lithobates catesbeianus
+905M21789,,905M21789,33.01073,-117.16855,905,San Diego,Central San Diego,Procambarus clarkii
+905M21789,,905M21789,33.01073,-117.16855,905,San Diego,Central San Diego,Gambusia affinis
+905M21789,,905M21789,33.01073,-117.16855,905,San Diego,Central San Diego,Micropterus salmoides
+906M21790,,906M21790,32.94797,-117.19987,906,San Diego,Central San Diego,Procambarus clarkii
+906M21790,,906M21790,32.94797,-117.19987,906,San Diego,Central San Diego,Micropterus salmoides
+911M24981,,911M24981,32.83264,-116.54798,911,San Diego,Southern San Diego,Other fish
+907M23413,,907M23413,32.83025,-117.10661,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+907M23413,,907M23413,32.83025,-117.10661,907,San Diego,Mission Bay and San Diego River,Gambusia affinis
+909WE0662,Sweetwater River at Glen Valley Campground,909WE0662,32.89957,-116.58789,909,San Diego,Southern San Diego,Other fish
+909M24969,,909M24969,32.92468,-116.55887,909,San Diego,Southern San Diego,Other fish
+910M24970,,910M24970,32.65106,-116.78722,910,San Diego,Southern San Diego,Other amphibian
+910M24970,,910M24970,32.65106,-116.78722,910,San Diego,Southern San Diego,Procambarus clarkii
+902M18917,,902M18917,33.49208,-117.24535,902,Riverside,Northern San Diego,Other amphibian
+902M18917,,902M18917,33.49208,-117.24535,902,Riverside,Northern San Diego,Other amphibian
+902M18917,,902M18917,33.49208,-117.24535,902,Riverside,Northern San Diego,Procambarus clarkii
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Other amphibian
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,Other amphibian
+403M01625,,403M01625,34.57002,-118.77994,403,Ventura,Santa Clara,Cyprinus carpio
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Procambarus clarkii
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Cyprinus carpio
+408M03175,,408M03175,34.19165,-119.00424,408,Ventura,Calleguas,Lithobates catesbeianus
+408M03175,,408M03175,34.19165,-119.00424,408,Ventura,Calleguas,Procambarus clarkii
+408M03175,,408M03175,34.19165,-119.00424,408,Ventura,Calleguas,Gambusia affinis
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Gambusia affinis
+402M00130,,402M00130,34.30178,-119.30314,402,Ventura,Ventura,Not Recorded
+SMC00271,,403S00271,34.5485,-119.16547,403,Ventura,Santa Clara,Other fish
+408M03155,,408M03155,34.22695,-118.97622,408,Ventura,Calleguas,Micropterus salmoides
+408M03143,,408M03143,34.16891,-118.95714,408,Ventura,Calleguas,Procambarus clarkii
+SMC00660,,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Gambusia affinis
+SMC00660,,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Micropterus salmoides
+ME-SCR2,ME-SCR2,403M01661,34.30608,-119.09618,403,Ventura,Santa Clara,Other amphibian
+ME-SCR2,ME-SCR2,403M01661,34.30608,-119.09618,403,Ventura,Santa Clara,Procambarus clarkii
+ME-SCR2,ME-SCR2,403M01661,34.30608,-119.09618,403,Ventura,Santa Clara,Other fish
+403M01629,,403M01629,34.38748,-119.0707,403,Ventura,Santa Clara,Not Recorded
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,Procambarus clarkii
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,Gambusia affinis
+404M04672,,404M04672,34.1868,-118.7893,404,Ventura,Santa Monica Bay,Not Recorded
+402M00094,,402M00094,34.4411,-119.29949,402,Ventura,Ventura,Other fish
+402M00090,,402M00090,34.4462,-119.29046,402,Ventura,Ventura,Other fish
+SMC00027,,403BA0027,34.66254,-119.05249,403,Ventura,Santa Clara,Other fish
+403M01575,,403M01575,34.64892,-119.1127,403,Ventura,Santa Clara,Not Recorded
+SMC00236,San Bernardino Road,SMC00236,34.08951,-117.94783,405,Los Angeles,San Gabriel,Not Recorded
+SMC01278,,SMC01278,33.82099,-118.06645,405,Los Angeles,San Gabriel,Gambusia affinis
+405M10598,,405M10598,34.06991,-117.77146,405,Los Angeles,San Gabriel,Not Recorded
+405M10599,,405M10599,33.95045,-118.04896,405,Los Angeles,San Gabriel,Not Recorded
+SMC01622,,SMC01622,32.92834,-117.04842,906,San Diego,Central San Diego,Not Recorded
+405PS0011,,405PS0011,33.88054,-117.89743,845,Orange,San Gabriel,Not Recorded
+801M12691,,801M12691,33.71856,-117.64834,801,Orange,Lower Santa Ana,Other amphibian
+SMC00105,,SMC00105,33.74651,-117.58423,801,Orange,Lower Santa Ana,Not Recorded
+801M12688,,801M12688,33.69863,-117.96738,801,Orange,Lower Santa Ana,Not Recorded
+801M12687,,801M12687,33.71727,-117.89068,801,Orange,Lower Santa Ana,Not Recorded
+901M14153,,901M14153,33.48072,-117.67784,901,Orange,San Juan,Gambusia affinis
+SMC00206,,SMC00206,33.54359,-117.65963,901,Orange,San Juan,Not Recorded
+SMC00873,,SMC00873,33.59849,-117.62668,901,Orange,San Juan,Other amphibian
+901M14150,,901M14150,33.62338,-117.62511,901,Orange,San Juan,Other amphibian
+REF-TCAS,,REF-TCAS,33.67399,-117.53722,901,Orange,San Juan,Other amphibian
+REF-TCAS,,REF-TCAS,33.67399,-117.53722,901,Orange,San Juan,Other amphibian
+LC-133,,LC-133,33.57853,-117.76178,901,Orange,San Juan,Other amphibian
+LC-133,,LC-133,33.57853,-117.76178,901,Orange,San Juan,Procambarus clarkii
+SMC05020,Arroyo Seco,SMC05020,34.23202,-118.17657,412,Los Angeles,Los Angeles,Not Recorded
+412WE0552,Arroyo Seco Creek ~2.1 miles upstream from Gould Mesa Campgroud.,412WE0552,34.23908,-118.18059,412,Los Angeles,Los Angeles,Not Recorded
+SMC05640,Big Tujunga Creek,SMC05640,34.28233,-118.22203,412,Los Angeles,Los Angeles,Not Recorded
+412M08655,,412M08655,34.27576,-118.21685,412,Los Angeles,Los Angeles,Not Recorded
+SMC06216,,SMC06216,34.27407,-118.31518,412,Los Angeles,Los Angeles,Micropterus salmoides
+412M08658,,412M08658,34.08329,-118.2206,412,Los Angeles,Los Angeles,Not Recorded
+412M08659,,412M08659,33.93942,-118.17479,412,Los Angeles,Los Angeles,Not Recorded
+412M08656,,412M08656,34.14554,-118.39651,412,Los Angeles,Los Angeles,Not Recorded
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,Not Recorded
+SMC01208,,SMC01208,34.19015,-118.5365,412,Los Angeles,Los Angeles,Not Recorded
+SMC04972,W. Fork San Gabriel River,SMC04972,34.24051,-117.93466,405,Los Angeles,San Gabriel,Not Recorded
+SMC06288,N. Fork San Gabriel River,SMC06288,34.26678,-117.84409,405,Los Angeles,San Gabriel,Not Recorded
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+SMC00105,,SMC00105,33.74651,-117.58423,801,Orange,Lower Santa Ana,Other amphibian
+SMC05968,E. Fork San Gabriel River,SMC05968,34.23489,-117.80554,405,Los Angeles,San Gabriel,Not Recorded
+SMC00608,,SMC00608,34.12344,-117.90223,405,Los Angeles,San Gabriel,Not Recorded
+405CE0280,Cattle Canyon Creek ~1.4mi above San Gabriel River,405CE0280,34.23041,-117.74981,405,Los Angeles,San Gabriel,Not Recorded
+SMC04000,,SMC04000,34.23282,-117.74777,405,Los Angeles,San Gabriel,Not Recorded
+SMC02208,Marshall Creek - La Verne; Oak Ridge Drive,SMC02208,34.12835,-117.77484,405,Los Angeles,San Gabriel,Gambusia affinis
+SMC01454,,SMC01454,33.95504,-117.86127,405,Los Angeles,San Gabriel,Other amphibian
+SMC01454,,SMC01454,33.95504,-117.86127,405,Los Angeles,San Gabriel,Other reptile
+SMC01982,"Milan Creek, Imperial Hwy",SMC01982,33.91694,-118.03836,405,Los Angeles,San Gabriel,Not Recorded
+SMC01902,,SMC01902,34.01036,-117.85602,405,Los Angeles,San Gabriel,Not Recorded
+SMC13630,,SMC13630,33.86119,-118.10351,405,Los Angeles,San Gabriel,Not Recorded
+SMC02096,,SMC02096,34.16617,-117.76905,405,Los Angeles,San Gabriel,Other amphibian
+SMC00544,,SMC00544,34.14677,-117.74153,405,Los Angeles,San Gabriel,Other amphibian
+SMC15678,"SGR Mainstem, Spring Street",SMC15678,33.80989,-118.09075,405,Los Angeles,San Gabriel,Not Recorded
+SMC17432,,SMC17432,33.84435,-118.09802,405,Los Angeles,San Gabriel,Not Recorded
+405PS0030,San Gabriel River 30,405PS0030,34.23487,-117.80523,405,Los Angeles,San Gabriel,Gambusia affinis
+405PS0030,San Gabriel River 30,405PS0030,34.23487,-117.80523,405,Los Angeles,San Gabriel,Other fish
+SMC00428,SGUR00428,SMC00428,34.2481,-118.04976,405,Los Angeles,San Gabriel,Not Recorded
+405CE0280,Cattle Canyon Creek ~1.4mi above San Gabriel River,405CE0280,34.23041,-117.74981,405,Los Angeles,San Gabriel,Not Recorded
+SMC06496,,SMC06496,34.16554,-117.8911,405,Los Angeles,San Gabriel,Not Recorded
+SMC00105,,SMC00105,33.74651,-117.58423,801,Orange,Lower Santa Ana,NA
+801M17028,,801M17028,33.96503,-117.47372,801,Riverside,Middle Santa Ana,Other amphibian
+801M17028,,801M17028,33.96503,-117.47372,801,Riverside,Middle Santa Ana,Gambusia affinis
+801M17028,,801M17028,33.96503,-117.47372,801,Riverside,Middle Santa Ana,Cyprinus carpio
+801M17028,,801M17028,33.96503,-117.47372,801,Riverside,Middle Santa Ana,Other fish
+802WE0658,Fuller Mill Creek At Idyllwild Panoramic Hwy,802WE0658,33.79824,-116.74831,802,Riverside,San Jacinto,NR
+801M17036,,801M17036,33.92391,-117.5975,801,Riverside,Middle Santa Ana,Procambarus clarkii
+SMC00957,,SMC00957,33.96195,-117.37075,801,Riverside,Middle Santa Ana,Other amphibian
+904M21793,,904M21793,33.08803,-117.14205,904,San Diego,Central San Diego,Other amphibian
+904M21793,,904M21793,33.08803,-117.14205,904,San Diego,Central San Diego,Micropterus salmoides
+904M21793,,904M21793,33.08803,-117.14205,904,San Diego,Central San Diego,Gambusia affinis
+904M21793,,904M21793,33.08803,-117.14205,904,San Diego,Central San Diego,Procambarus clarkii
+SMC01418,,907S01418,32.99254,-116.71771,907,San Diego,Mission Bay and San Diego River,Other amphibian
+SMC01418,,907S01418,32.99254,-116.71771,907,San Diego,Mission Bay and San Diego River,Other reptile
+SMC01418,,907S01418,32.99254,-116.71771,907,San Diego,Mission Bay and San Diego River,Other fish
+SMC00577,,907S00577,33.07673,-116.67502,907,San Diego,Mission Bay and San Diego River,Not Recorded
+907M23428,,907M23428,32.78739,-116.96743,907,San Diego,Mission Bay and San Diego River,Not Recorded
+907FC0001,Forester Creek below Mission Gorge Rd,907FC0001,32.83816,-116.99652,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+907FC0001,Forester Creek below Mission Gorge Rd,907FC0001,32.83816,-116.99652,907,San Diego,Mission Bay and San Diego River,Gambusia affinis
+902RC0001,"Rainbow Creek, approx 360m d/s of Met Water service road at RBC",902RC0001,33.40906,-117.18733,902,San Diego,Northern San Diego,Other amphibian
+902RC0001,"Rainbow Creek, approx 360m d/s of Met Water service road at RBC",902RC0001,33.40906,-117.18733,902,San Diego,Northern San Diego,Other amphibian
+902RC0001,"Rainbow Creek, approx 360m d/s of Met Water service road at RBC",902RC0001,33.40906,-117.18733,902,San Diego,Northern San Diego,Procambarus clarkii
+902RC0001,"Rainbow Creek, approx 360m d/s of Met Water service road at RBC",902RC0001,33.40906,-117.18733,902,San Diego,Northern San Diego,Carassius auratus
+902RC0001,"Rainbow Creek, approx 360m d/s of Met Water service road at RBC",902RC0001,33.40906,-117.18733,902,San Diego,Northern San Diego,Other fish
+903M20328,,903M20328,33.27547,-117.22944,903,San Diego,Northern San Diego,Gambusia affinis
+SMC00153,,SMC00153,33.22193,-117.34611,903,San Diego,Northern San Diego,Not Recorded
+404M07391,,404M07391,34.15031,-118.69716,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07391,,404M07391,34.15031,-118.69716,404,Los Angeles,Santa Monica Bay,Other fish
+SMC04264,,SMC04264,34.13,-118.7548,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+SMC04264,,SMC04264,34.13,-118.7548,404,Los Angeles,Santa Monica Bay,Gambusia affinis
+SMC04264,,SMC04264,34.13,-118.7548,404,Los Angeles,Santa Monica Bay,Micropterus salmoides
+403M05893,,403M05893,34.44409,-118.51398,403,Los Angeles,Santa Clara,Other amphibian
+403M05893,,403M05893,34.44409,-118.51398,403,Los Angeles,Santa Clara,Other amphibian
+403M05892,,403M05892,34.61702,-118.55871,403,Los Angeles,Santa Clara,Other amphibian
+404M07387,,404M07387,34.13658,-118.70447,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07387,,404M07387,34.13658,-118.70447,404,Los Angeles,Santa Monica Bay,Gambusia affinis
+SMC00640,,403S00640,34.60114,-118.55797,403,Los Angeles,Santa Clara,Other amphibian
+SMC00436,,SMC00436,34.149,-118.27863,412,Los Angeles,Los Angeles,NA
+SMC00565,,902S00565,33.41031,-117.23903,902,San Diego,Northern San Diego,Procambarus clarkii
+903M20166,,903M20166,33.24022,-117.23564,903,San Diego,Northern San Diego,Procambarus clarkii
+SMC00565,,902S00565,33.41031,-117.23903,902,San Diego,Northern San Diego,Gambusia affinis
+SMC00565,,902S00565,33.41031,-117.23903,902,San Diego,Northern San Diego,Cyprinus carpio
+SMC00565,,902S00565,33.41031,-117.23903,902,San Diego,Northern San Diego,Lepomis cyanellus
+SMC00565,,902S00565,33.41031,-117.23903,902,San Diego,Northern San Diego,Other fish
+SGUR3984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Not Recorded
+SGLT506,,SGLT506,34.06173,-117.99129,405,Los Angeles,San Gabriel,Gambusia affinis
+801M12708,,801M12708,33.93558,-117.79273,801,Orange,Lower Santa Ana,Procambarus clarkii
+801M12712,,801M12712,33.87178,-117.80569,801,Orange,Lower Santa Ana,Not Recorded
+801M12940,,801M12940,33.76151,-118.0434,801,Orange,Lower Santa Ana,Other invertebrate
+SMC02302,Carbon Creek - Cypress,SMC02302,33.8153,-118.04128,845,Orange,San Gabriel,Not Recorded
+SMC02718,,SMC02718,33.88936,-117.88771,845,Orange,San Gabriel,Not Recorded
+SMC00899,,SMC00899,33.71747,-117.7888,801,Orange,Lower Santa Ana,Not Recorded
+SMC02494,,SMC02494,33.9132,-117.97397,845,Orange,San Gabriel,Gambusia affinis
+SMC01155,,SMC01155,33.7606,-117.67949,801,Orange,Lower Santa Ana,Not Recorded
+901M14155,,901M14155,33.62138,-117.60683,901,Orange,San Juan,Not Recorded
+SMC00531,,901S00531,33.55975,-117.772,901,Orange,San Juan,Not Recorded
+402M00138,,402M00138,34.45289,-119.28781,402,Ventura,Ventura,Other fish
+402M00157,,402M00157,34.37646,-119.30793,402,Ventura,Ventura,Gambusia affinis
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Other amphibian
+905PS0026,Santa Ysabel Creek,905PS0026,33.10697,-116.86545,905,San Diego,Central San Diego,Gambusia affinis
+902M18865,SMC18865,902M18865,33.46728,-117.23022,902,Riverside,Northern San Diego,NA
+SMC01097,,902S01097,33.48724,-117.25537,902,Riverside,Northern San Diego,NA
+909M24925,,909M24925,32.83848,-116.63814,909,San Diego,Southern San Diego,Other amphibian
+909WE0662,Sweetwater River at Glen Valley Campground,909WE0662,32.89957,-116.58789,909,San Diego,Southern San Diego,Other amphibian
+801M12649,San Diego Creek downstream of Harvard,801M12649,33.6885,-117.81997,801,Orange,Lower Santa Ana,Other fish
+403M01619,,403M01619,34.55945,-119.26634,403,Ventura,Santa Clara,Other amphibian
+408M03166,,408M03166,34.28501,-118.86104,408,Ventura,Calleguas,Micropterus salmoides
+408M03182,,408M03182,34.29028,-118.83916,408,Ventura,Calleguas,Gambusia affinis
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Procambarus clarkii
+905M21725,,905M21725,33.01795,-117.17811,905,San Diego,Central San Diego,NA
+905M21737,,905M21737,33.00405,-117.15264,905,San Diego,Central San Diego,NA
+ME-CC,,ME-CC,34.17912,-119.03968,408,Ventura,Calleguas,Gambusia affinis
+ME-SCR2,ME-SCR2,403M01661,34.30608,-119.09618,403,Ventura,Santa Clara,Gambusia affinis
+ME-SCR2,ME-SCR2,403M01661,34.30608,-119.09618,403,Ventura,Santa Clara,Other fish
+901M14126,Aliso Creek downstream of Alicia Pkwy.,901M14126,33.54743,-117.7223,901,Orange,San Juan,Procambarus clarkii
+SMC00206,,SMC00206,33.54359,-117.65963,901,Orange,San Juan,Other fish
+845PS0011,Fullerton Creek,845PS0011,33.88053,-117.89742,845,Orange,San Gabriel,NA
+845M10601,San Gabriel River,845M10601,33.90791,-117.88829,845,Orange,San Gabriel,NA
+801M16908,SMC16908,801M16908,33.91828,-117.63602,801,Riverside,Middle Santa Ana,Procambarus clarkii
+801M16908,SMC16908,801M16908,33.91828,-117.63602,801,Riverside,Middle Santa Ana,Cyprinus carpio
+801M16908,SMC16908,801M16908,33.91828,-117.63602,801,Riverside,Middle Santa Ana,Lepomis cyanellus
+801M16916,SMC16916,801M16916,33.96417,-117.49156,801,Riverside,Middle Santa Ana,NA
+403M05780,Elizibeth Creek 650m. u/s of USFS 6N24,403M05780,34.60452,-118.55686,403,Los Angeles,Santa Clara,NA
+SMC00428,SGUR00428,SMC00428,34.2481,-118.04976,405,Los Angeles,San Gabriel,NA
+412M08608,Bull Creek,412M08608,34.18543,-118.49768,412,Los Angeles,Los Angeles,Other amphibian
+412M08616,Arroyo Calabasas,412M08616,34.18855,-118.61028,412,Los Angeles,Los Angeles,NA
+412PS0020,Alhambra Wash,412PS0020,34.07077,-118.09545,412,Los Angeles,Los Angeles,NA
+402M00015,VR near Friends Packing House,402M00015,34.47484,-119.29151,402,Ventura,Ventura,Other amphibian
+402M00015,VR near Friends Packing House,402M00015,34.47484,-119.29151,402,Ventura,Ventura,Other amphibian
+402M00029,VR near Foster Park,402M00029,34.35798,-119.31172,402,Ventura,Ventura,Other amphibian
+402M00029,VR near Foster Park,402M00029,34.35798,-119.31172,402,Ventura,Ventura,Procambarus clarkii
+402M00029,VR near Foster Park,402M00029,34.35798,-119.31172,402,Ventura,Ventura,Lithobates catesbeianus
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Procambarus clarkii
+902M20173,,902M20173,33.40528,-117.18096,902,San Diego,Northern San Diego,Other amphibian
+902M20173,,902M20173,33.40528,-117.18096,902,San Diego,Northern San Diego,Procambarus clarkii
+903M20165,,903M20165,33.2747,-117.18089,903,San Diego,Northern San Diego,Lithobates catesbeianus
+903M20165,,903M20165,33.2747,-117.18089,903,San Diego,Northern San Diego,Procambarus clarkii
+SMC01640,,SMC01640,34.15335,-118.69679,404,Los Angeles,Santa Monica Bay,NA
+ME-VR2,,ME-VR2,34.34584,-119.29948,402,Ventura,Ventura,Gambusia affinis
+SMC00095,,402BA0095,34.46328,-119.34566,402,Ventura,Ventura,Not Recorded
+SMC00143,,402BA0143,34.36483,-119.31057,402,Ventura,Ventura,Other fish
+SMC00772,,403S00772,34.40976,-118.93221,403,Ventura,Santa Clara,Gambusia affinis
+SMC00772,,403S00772,34.40976,-118.93221,403,Ventura,Santa Clara,Other fish
+SMC00827,,SMC00827,34.55734,-119.18833,403,Ventura,Santa Clara,Other fish
+SMC01860,,SMC01860,34.224,-118.97911,408,Ventura,Calleguas,Not Recorded
+SMC02127,,SMC02127,34.42318,-119.26474,402,Ventura,Ventura,Other fish
+903M20165,,903M20165,33.2747,-117.18089,903,San Diego,Northern San Diego,Lithobates catesbeianus
+903M20165,,903M20165,33.2747,-117.18089,903,San Diego,Northern San Diego,Gambusia affinis
+907M23327,,907M23327,32.8378,-116.78974,907,San Diego,Mission Bay and San Diego River,Other amphibian
+907M23327,,907M23327,32.8378,-116.78974,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+907M23331,,907M23331,32.84058,-116.90771,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+412WE0552,Arroyo Seco Creek ~2.1 miles upstream from Gould Mesa Campgroud.,412WE0552,34.23908,-118.18059,412,Los Angeles,Los Angeles,NA
+SMC00924,,SMC00924,34.22394,-118.18053,412,Los Angeles,Los Angeles,NA
+801STW085,San Timoteo Wash Random Olsen Site 085,801STW085,34.0498692,-117.23326,801,San Bernardino,Upper Santa Ana,Other reptile
+801RB8567,San Timoteo Canyon Random Olsen Site 567,801RB8567,33.971554,-117.082221,801,Riverside,Upper Santa Ana,Other reptile
+801RB8567,San Timoteo Canyon Random Olsen Site 567,801RB8567,33.971554,-117.082221,801,Riverside,Upper Santa Ana,Other reptile
+907M23330,,907M23330,33.00358,-116.70228,907,San Diego,Mission Bay and San Diego River,Procambarus clarkii
+907M23330,,907M23330,33.00358,-116.70228,907,San Diego,Mission Bay and San Diego River,Other fish
+907M23330,,907M23330,33.00358,-116.70228,907,San Diego,Mission Bay and San Diego River,Other reptile
+405CE0280,Cattle Canyon Creek ~1.4mi above San Gabriel River,405CE0280,34.23041,-117.74981,405,Los Angeles,San Gabriel,Other amphibian
+SGUT502,,SGUT502,34.2283,-117.76593,405,Los Angeles,San Gabriel,Other amphibian
+801STW258,,801STW258,34.01399,-117.17834,801,San Bernardino,Upper Santa Ana,Other reptile
+801CYC398,City Creek Random Olsen Site 398,801CYC398,34.13646,-117.18965,801,San Bernardino,Upper Santa Ana,Other amphibian
+801CYC398,City Creek Random Olsen Site 398,801CYC398,34.13646,-117.18965,801,San Bernardino,Upper Santa Ana,Other fish
+SGUT503,,SGUT503,34.29216,-117.83856,405,Los Angeles,San Gabriel,NA
+404M07357,Topanga Creek 365 m d/s of Alma Rd,404M07357,34.07936,-118.59437,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07357,Topanga Creek 365 m d/s of Alma Rd,404M07357,34.07936,-118.59437,404,Los Angeles,Santa Monica Bay,Gambusia affinis
+404M07357,Topanga Creek 365 m d/s of Alma Rd,404M07357,34.07936,-118.59437,404,Los Angeles,Santa Monica Bay,Micropterus almoides
+SMC02436,,SMC02436,34.26279,-118.97199,408,Ventura,Calleguas,Not Recorded
+SMC03048,,404S03048,34.18425,-118.79088,404,Ventura,Santa Monica Bay,Procambarus clarkii
+404M07357,Topanga Creek 365 m d/s of Alma Rd,404M07357,34.07936,-118.59437,404,Los Angeles,Santa Monica Bay,Carassius auratus
+404M07357,Topanga Creek 365 m d/s of Alma Rd,404M07357,34.07936,-118.59437,404,Los Angeles,Santa Monica Bay,Other fish
+904M21729,,904M21729,33.09835,-117.13358,904,San Diego,Central San Diego,Procambarus clarkii
+904M21729,,904M21729,33.09835,-117.13358,904,San Diego,Central San Diego,Micropterus almoides
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Gambusia affinis
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Micropterus almoides
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Micropterus almoides
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Lepomis cyanellus
+SMC01096,,SMC01096,34.28465,-118.29343,412,Los Angeles,Los Angeles,NA
+SMC00520,,SMC00520,34.29626,-118.28252,412,Los Angeles,Los Angeles,NA
+SMC01544,,SMC01544,34.29729,-118.24843,412,Los Angeles,Los Angeles,Procambarus clarkii
+801RB8598,Day Creek Random Olsen Site 598,801RB8598,34.119657,-117.54008,801,San Bernardino,Middle Santa Ana,NA
+403M01500,FranklinBarranca u/s of DarlingRd,403M01500,34.29132,-119.14776,403,Ventura,Santa Clara,NA
+SMC00324,,ME-SCR,34.30063,-119.1097,403,Ventura,Santa Clara,NA
+403M01528,Franklin Barranca in SCR at Hwy 118,403M01528,34.27599,-119.14219,403,Ventura,Santa Clara,NA
+801M15414,West Fork City Creek SMC Random Site 15414,801M15414,34.18646,-117.18547,801,San Bernardino,Upper Santa Ana,Other amphibian
+801M15414,West Fork City Creek SMC Random Site 15414,801M15414,34.18646,-117.18547,801,San Bernardino,Upper Santa Ana,Other amphibian
+801M15414,West Fork City Creek SMC Random Site 15414,801M15414,34.18646,-117.18547,801,San Bernardino,Upper Santa Ana,Other fish
+404M07358,Centinela Creek-100m. d/s of Inglewood Blvd.,404M07358,33.98675,-118.41043,404,Los Angeles,Santa Monica Bay,NA
+801STW207,,801STW207,33.97496,-117.09231,801,Riverside,Upper Santa Ana,NA
+801M15378,Lytle Creek SMC Random Site 15378,801M15378,34.24433,-117.50774,801,San Bernardino,Middle Santa Ana,Other amphibian
+801M15424,Cucamonga Creek Random SMC site 15424,801M15424,33.99181,-117.59958,801,San Bernardino,Middle Santa Ana,NA
+907M23348,,907M23348,32.7862,-117.11484,907,San Diego,Mission Bay and San Diego River,NA
+408M03036,LasPosasRdDrainTrib above Laguna Rd,408M03036,34.17991,-119.07852,408,Ventura,Calleguas,NA
+408BA0660,Santa Clara Watershed Unknown River Random Site 660,408BA0660,34.26784,-118.93781,408,Ventura,Calleguas,Gambusia affinis
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,Procambarus clarkii
+SMC00036,,408BA0036,34.21502,-118.87899,408,Ventura,Calleguas,Gambusia affinis
+412M08622,Eaton Wash,412M08622,34.19378,-118.10274,412,Los Angeles,Los Angeles,Other amphibian
+412CE0232,Los Angeles River ~0.4mi above Hwy 101,412CE0232,34.15907,-118.45624,412,Los Angeles,Los Angeles,NA
+909M24937,,909M24937,32.81935,-116.70775,909,San Diego,Southern San Diego,Other amphibian
+907M23379,,907M23379,32.80322,-116.92425,907,San Diego,Mission Bay and San Diego River,NA
+SMC00464,,SMC00464,34.24152,-117.86683,405,Los Angeles,San Gabriel,Procambarus clarkii
+SMC00520,,SMC00520,34.29626,-118.28252,412,Los Angeles,Los Angeles,NA
+SMC00544,,SMC00544,34.14677,-117.74153,405,Los Angeles,San Gabriel,Other amphibian
+SMC00574,,SMC00574,33.87972,-118.10851,405,Los Angeles,San Gabriel,NA
+SMC00608,,SMC00608,34.12344,-117.90223,405,Los Angeles,San Gabriel,NA
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Gambusia affinis
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Micropterus almoides
+SMC00836,,408BA0836,34.19071,-119.00511,408,Ventura,Calleguas,Procambarus clarkii
+SMC00873,,SMC00873,33.59849,-117.62668,901,Orange,San Juan,Other amphibian
+SMC00924,,SMC00924,34.22394,-118.18053,412,Los Angeles,Los Angeles,NA
+SMC01278,,SMC01278,33.82099,-118.06645,405,Los Angeles,San Gabriel,NA
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Micropterus almoides
+SMC03390,,SMC03390,33.82267,-118.09186,405,Los Angeles,San Gabriel,NA
+SMC04524,W. Fork San Gabriel River; Off Shortcut- Pass Road,SMC04524,34.24761,-118.03367,405,Los Angeles,San Gabriel,Other fish
+SMC04670,,SMC04670,33.86506,-118.10456,405,Los Angeles,San Gabriel,NA
+SMC09698,,802S09698,33.7459,-116.70739,802,Riverside,San Jacinto,NA
+SMC11581,,SMC11581,33.95246,-117.60611,801,Riverside,Middle Santa Ana,NA
+SGLT506,,SGLT506,34.06173,-117.99129,405,Los Angeles,San Gabriel,NA
+SMC03984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Other reptile
+SMC03984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Other fish
+SMC09698,,802S09698,33.7459,-116.70739,802,Riverside,San Jacinto,
+801M16861,,801M16861,33.89732,-117.36136,801,Riverside,Middle Santa Ana,Procambarus clarkii
+904M21713,Escondido Creek,904M21713,33.11944,-117.09511,904,San Diego,Central San Diego,Ameiurus sp
+801SAR151,Santa Ana River Random Olsen Site 151,801SAR151,33.98873,-117.39614,801,Riverside,Middle Santa Ana,Gambusia affinis
+801SAROCR,,801SAROCR,33.931667,-117.592222,801,Riverside,Middle Santa Ana,Gambusia affinis
+801RB8494,Santa Ana River Random Olsen Site 494,801RB8494,33.96292,-117.47379,801,Riverside,Middle Santa Ana,Procambarus clarkii
+801RB8494,Santa Ana River Random Olsen Site 494,801RB8494,33.96292,-117.47379,801,Riverside,Middle Santa Ana,Lithobates catesbeianus
+801RB8494,Santa Ana River Random Olsen Site 494,801RB8494,33.96292,-117.47379,801,Riverside,Middle Santa Ana,Gambusia affinis
+801RB8494,Santa Ana River Random Olsen Site 494,801RB8494,33.96292,-117.47379,801,Riverside,Middle Santa Ana,Other amphibian
+801RB8356,Santa Ana River Random Olsen Site 356,801RB8356,33.9313,-117.58815,801,Riverside,Middle Santa Ana,Other amphibian
+801RB8356,Santa Ana River Random Olsen Site 356,801RB8356,33.9313,-117.58815,801,Riverside,Middle Santa Ana,Lithobates catesbeianus
+801RB8356,Santa Ana River Random Olsen Site 356,801RB8356,33.9313,-117.58815,801,Riverside,Middle Santa Ana,Ameiurus sp
+801RB8356,Santa Ana River Random Olsen Site 356,801RB8356,33.9313,-117.58815,801,Riverside,Middle Santa Ana,Gambusia affinis
+801RB8356,Santa Ana River Random Olsen Site 356,801RB8356,33.9313,-117.58815,801,Riverside,Middle Santa Ana,Cyprinus carpio
+801WE1008,Barton Creek ~ 1.4 mi. NW of Barton Flats Campground,801WE1008,34.18128,-116.91197,801,San Bernardino,Upper Santa Ana,Other fish
+801M15406,,801M15406,34.09198,-117.60878,801,San Bernardino,Middle Santa Ana,Other reptile
+801M15389,,801M15389,33.98531,-117.66605,801,San Bernardino,Middle Santa Ana,NA
+801M15441,,801M15441,34.23064,-117.47906,801,San Bernardino,Middle Santa Ana,Other amphibian
+801M15441,,801M15441,34.23064,-117.47906,801,San Bernardino,Middle Santa Ana,Other amphibian
+801M15441,,801M15441,34.23064,-117.47906,801,San Bernardino,Middle Santa Ana,Gambusia affinis
+801PFB019,Prado Flood Control Basin Random Olsen Site 019,801PFB019,33.92417,-117.59778,801,Riverside,Middle Santa Ana,Lithobates catesbeianus
+801PFB019,Prado Flood Control Basin Random Olsen Site 019,801PFB019,33.92417,-117.59778,801,Riverside,Middle Santa Ana,Lithobates catesbeianus
+801PFB019,Prado Flood Control Basin Random Olsen Site 019,801PFB019,33.92417,-117.59778,801,Riverside,Middle Santa Ana,Other amphibian
+801PFB019,Prado Flood Control Basin Random Olsen Site 019,801PFB019,33.92417,-117.59778,801,Riverside,Middle Santa Ana,Gambusia affinis
+801PFB019,Prado Flood Control Basin Random Olsen Site 019,801PFB019,33.92417,-117.59778,801,Riverside,Middle Santa Ana,Micropterus dolomieu
+402M00046,,402M00046,34.42402,-119.30011,402,Ventura,Ventura,NA
+404M07368,,404M07368,34.1264,-118.75364,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+404M07368,,404M07368,34.1264,-118.75364,404,Los Angeles,Santa Monica Bay,Micropterus almoides
+904M21713,Escondido Creek,904M21713,33.11944,-117.09511,904,San Diego,Central San Diego,Gambusia affinis
+905WE1018,Santa Ysabel Creek ~0.4mi SW Hwy 79,905WE1018,33.12423,-116.68157,905,San Diego,Central San Diego,Other amphibian
+905WE1018,Santa Ysabel Creek ~0.4mi SW Hwy 79,905WE1018,33.12423,-116.68157,905,San Diego,Central San Diego,Other amphibian
+904M21720,Agua Hedionda Tributary,904M21720,33.15678,-117.28243,904,San Diego,Central San Diego,Other amphibian
+904M21720,Agua Hedionda Tributary,904M21720,33.15678,-117.28243,904,San Diego,Central San Diego,Other amphibian
+904M21720,Agua Hedionda Tributary,904M21720,33.15678,-117.28243,904,San Diego,Central San Diego,Procambarus clarkii
+905M21721,Lusardi Creek,905M21721,33.00843,-117.16525,905,San Diego,Central San Diego,Procambarus clarkii
+902M20161,Rainbow Creek,902M20161,33.4187,-117.14103,902,San Diego,Northern San Diego,Gambusia affinis
+903M20153,Couser Canyon,903M20153,33.31876,-117.10161,903,San Diego,Northern San Diego,Other amphibian
+903M20124,Key's Creek Tributary,903M20124,33.29947,-117.08415,903,San Diego,Northern San Diego,
+911M24913,Campo Creek,911M24913,32.59027,-116.51532,911,San Diego,Southern San Diego,Gambusia affinis
+911M24916,Wruck Canyon,911M24916,32.54938,-116.99128,911,San Diego,Southern San Diego,
+909M24923,Telegraph Canyon,909M24923,32.63919,-116.9887,909,San Diego,Southern San Diego,Pacifastacus lenisculus
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,Procambarus clarkii
+SMC11581,,SMC11581,33.95246,-117.60611,801,Riverside,Middle Santa Ana,NA
+904WE1125,Escondido Creek above Country Club Dr.,904WE1125,33.09896,-117.12876,904,San Diego,Central San Diego,NA
+404M07360,,404M07360,34.15459,-118.75848,404,Los Angeles,Santa Monica Bay,Other amphibian
+801SAROCR,,801SAROCR,33.931667,-117.592222,801,Riverside,Middle Santa Ana,Ameiurus sp
+SGUR3984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Other fish
+403M05800,,403M05800,34.52907,-118.52244,403,Los Angeles,Santa Clara,Other amphibian
+403M05798,,403M05798,34.3633,-118.42772,403,Los Angeles,Santa Clara,Other amphibian
+SGLT506,,SGLT506,34.06173,-117.99129,405,Los Angeles,San Gabriel,Gambusia affinis
+SMC01640,,SMC01640,34.15335,-118.69679,404,Los Angeles,Santa Monica Bay,NA
+801M16973,,801M16973,33.93481,-117.34516,801,Riverside,Middle Santa Ana,Other amphibian
+801M16973,,801M16973,33.93481,-117.34516,801,Riverside,Middle Santa Ana,Other amphibian
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Micropterus almoides
+902WE0888,De Luz Creek Trib ~1.8mi above De Luz Creek,902WE0888,33.45407,-117.30182,902,San Diego,Northern San Diego,Procambarus clarkii
+903M20230,,903M20230,33.23967,-117.31776,903,San Diego,Northern San Diego,Other amphibian
+903M20230,,903M20230,33.23967,-117.31776,903,San Diego,Northern San Diego,Other amphibian
+903M20230,,903M20230,33.23967,-117.31776,903,San Diego,Northern San Diego,Other invertebrate
+907M23367,,907M23367,32.96335,-116.66364,907,San Diego,Mission Bay and San Diego River,Other amphibian
+907M23367,,907M23367,32.96335,-116.66364,907,San Diego,Mission Bay and San Diego River,Other amphibian
+801RB8312,Santa Ana River Random Olsen Site 312,801RB8312,33.95718,-117.53012,801,Riverside,Middle Santa Ana,Procambarus clarkii
+404M07364,,404M07364,34.0968,-118.71734,404,Los Angeles,Santa Monica Bay,Other fish
+404M07365,,404M07365,34.04241,-118.51361,404,Los Angeles,Santa Monica Bay,Other amphibian
+404M07365,,404M07365,34.04241,-118.51361,404,Los Angeles,Santa Monica Bay,Other amphibian
+404M07365,,404M07365,34.04241,-118.51361,404,Los Angeles,Santa Monica Bay,Other invertebrate
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Procambarus clarkii
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Micropterus almoides
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Cyprinus carpio
+SMC01384,,SMC01384,34.0646,-118.70091,404,Los Angeles,Santa Monica Bay,Lepomis cyanellus
+SGUR3984,,SMC03984,34.24613,-117.90186,405,Los Angeles,San Gabriel,Other amphibian
+801M16973,,801M16973,33.93481,-117.34516,801,Riverside,Middle Santa Ana,Procambarus clarkii
+801M16976,,801M16976,34.01604,-117.37024,801,Riverside,Middle Santa Ana,Ameiurus sp
+801M16976,,801M16976,34.01604,-117.37024,801,Riverside,Middle Santa Ana,Other fish
+SMC11581,,SMC11581,33.95246,-117.60611,801,Riverside,Middle Santa Ana,NA
+SMC09698,,802S09698,33.7459,-116.70739,802,Riverside,San Jacinto,NA
+907M23349,,907M23349,32.82495,-117.09258,907,San Diego,Mission Bay and San Diego River,NA
+903M20214,,903M20214,33.21936,-117.35881,903,San Diego,Northern San Diego,Other amphibian
+903M20214,,903M20214,33.21936,-117.35881,903,San Diego,Northern San Diego,Procambarus clarkii
+903M20214,,903M20214,33.21936,-117.35881,903,San Diego,Northern San Diego,Gambusia affinis
+801RB8312,Santa Ana River Random Olsen Site 312,801RB8312,33.95718,-117.53012,801,Riverside,Middle Santa Ana,Ameiurus sp
+801RB8312,Santa Ana River Random Olsen Site 312,801RB8312,33.95718,-117.53012,801,Riverside,Middle Santa Ana,Gambusia affinis
+801RB8312,Santa Ana River Random Olsen Site 312,801RB8312,33.95718,-117.53012,801,Riverside,Middle Santa Ana,Cyprinus carpio
+SMC04047,,SMC04047,34.45832,-119.29171,402,Ventura,Ventura,Gambusia affinis
+SMC04047,,SMC04047,34.45832,-119.29171,402,Ventura,Ventura,Other fish
+SMC04308,,SMC04308,34.19349,-118.9083,408,Ventura,Calleguas,Procambarus clarkii
